@@ -13,6 +13,59 @@
       min-height: 100vh;
     }
 
+    #login-screen {
+      position: fixed;
+      inset: 0;
+      background: #1a56db;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+      padding: 30px;
+    }
+    #login-screen h2 {
+      color: white;
+      font-size: 22px;
+      margin-bottom: 6px;
+    }
+    #login-screen p {
+      color: rgba(255,255,255,0.75);
+      font-size: 14px;
+      margin-bottom: 32px;
+    }
+    #login-screen input {
+      width: 100%;
+      max-width: 300px;
+      padding: 14px 16px;
+      font-size: 18px;
+      border: none;
+      border-radius: 12px;
+      outline: none;
+      text-align: center;
+      letter-spacing: 2px;
+      margin-bottom: 12px;
+    }
+    #login-screen button {
+      width: 100%;
+      max-width: 300px;
+      padding: 14px;
+      background: white;
+      color: #1a56db;
+      border: none;
+      border-radius: 12px;
+      font-size: 16px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+    #login-screen button:active { opacity: 0.85; }
+    #login-error {
+      color: #fca5a5;
+      font-size: 14px;
+      margin-top: 10px;
+      display: none;
+    }
+
     header {
       background: #1a56db;
       color: white;
@@ -192,6 +245,14 @@
 </head>
 <body>
 
+<div id="login-screen">
+  <h2>Gestiune Stoc</h2>
+  <p>Introduceți parola pentru acces</p>
+  <input type="password" id="parola-input" placeholder="Parolă" autocomplete="off">
+  <button onclick="verificaParola()">Intră</button>
+  <div id="login-error">Parolă incorectă. Încearcă din nou.</div>
+</div>
+
 <header>
   <h1>Gestiune Stoc</h1>
   <p>Romgaz SA — Sângeorgiu de Mureș</p>
@@ -251,6 +312,27 @@
 <div class="results" id="results"><div style="text-align:center;padding:40px;color:#6b7280">Se încarcă stocul...</div></div>
 
 <script>
+  // Login
+  const PAROLA = 'Interventii';
+  if (sessionStorage.getItem('auth') !== '1') {
+    document.getElementById('login-screen').style.display = 'flex';
+  } else {
+    document.getElementById('login-screen').style.display = 'none';
+  }
+  document.getElementById('parola-input').addEventListener('keydown', e => {
+    if (e.key === 'Enter') verificaParola();
+  });
+  function verificaParola() {
+    const val = document.getElementById('parola-input').value;
+    if (val === PAROLA) {
+      sessionStorage.setItem('auth', '1');
+      document.getElementById('login-screen').style.display = 'none';
+    } else {
+      document.getElementById('login-error').style.display = 'block';
+      document.getElementById('parola-input').value = '';
+    }
+  }
+
   let stoc = [];
   let stocFilter = 'toate';
 
