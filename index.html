@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <title>Stoc Gestiune</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #f0f2f5;
+      min-height: 100vh;
+    }
+
+    header {
+      background: #1a56db;
+      color: white;
+      padding: 14px 16px;
+      text-align: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    header h1 { font-size: 17px; font-weight: 700; }
+    header p { font-size: 11px; opacity: 0.8; margin-top: 2px; }
+
+    .search-wrap {
+      background: white;
+      padding: 12px 14px 10px;
+      border-bottom: 1px solid #e5e7eb;
+      position: sticky;
+      top: 56px;
+      z-index: 99;
+    }
+
+    .search-wrap input[type=text] {
+      width: 100%;
+      padding: 11px 14px;
+      font-size: 16px;
+      border: 2px solid #d1d5db;
+      border-radius: 10px;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .search-wrap input[type=text]:focus { border-color: #1a56db; }
+
+    .filters {
+      display: flex;
+      gap: 8px;
+      margin-top: 8px;
+      flex-wrap: wrap;
+    }
+
+    .filters select {
+      flex: 1;
+      min-width: 130px;
+      padding: 8px 10px;
+      font-size: 13px;
+      border: 1px solid #d1d5db;
+      border-radius: 8px;
+      background: #f9fafb;
+      outline: none;
+      color: #374151;
+      cursor: pointer;
+    }
+    .filters select:focus { border-color: #1a56db; background: white; }
+
+    .sort-row {
+      display: flex;
+      gap: 8px;
+      margin-top: 8px;
+    }
+    .sort-row select {
+      flex: 1;
+      padding: 8px 10px;
+      font-size: 13px;
+      border: 1px solid #d1d5db;
+      border-radius: 8px;
+      background: #f9fafb;
+      outline: none;
+      color: #374151;
+    }
+
+    .btn-reset {
+      padding: 8px 14px;
+      font-size: 13px;
+      border: 1px solid #ef4444;
+      border-radius: 8px;
+      background: white;
+      color: #ef4444;
+      cursor: pointer;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+    .btn-reset:active { background: #fee2e2; }
+
+    .stats {
+      padding: 7px 14px;
+      font-size: 12px;
+      color: #6b7280;
+      background: #f9fafb;
+      border-bottom: 1px solid #e5e7eb;
+    }
+
+    .results { padding: 10px 14px 20px; }
+
+    .card {
+      background: white;
+      border-radius: 12px;
+      padding: 13px 14px;
+      margin-bottom: 9px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+      border-left: 4px solid #1a56db;
+    }
+    .card.zero { border-left-color: #ef4444; }
+
+    .card .cod {
+      font-size: 12px;
+      font-weight: 700;
+      color: #1a56db;
+      font-family: monospace;
+      letter-spacing: 0.5px;
+    }
+    .card.zero .cod { color: #ef4444; }
+
+    .card .descriere {
+      font-size: 15px;
+      font-weight: 600;
+      color: #111827;
+      margin: 4px 0 8px;
+      line-height: 1.35;
+    }
+
+    .badges {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 3px 10px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 600;
+    }
+    .b-stoc { background: #dcfce7; color: #15803d; }
+    .b-stoc.zero { background: #fee2e2; color: #dc2626; }
+    .b-um { background: #e0e7ff; color: #3730a3; }
+    .b-cost { background: #fef3c7; color: #92400e; }
+    .b-val { background: #f3e8ff; color: #7e22ce; }
+
+    .card .categorie {
+      font-size: 11px;
+      color: #9ca3af;
+      margin-top: 7px;
+      line-height: 1.3;
+    }
+
+    .empty {
+      text-align: center;
+      padding: 50px 20px;
+      color: #6b7280;
+    }
+    .empty .icon { font-size: 44px; margin-bottom: 10px; }
+    .empty p { font-size: 14px; }
+
+    mark { background: #fef08a; border-radius: 2px; padding: 0 1px; }
+
+    .chip-row {
+      display: flex;
+      gap: 6px;
+      margin-top: 8px;
+      flex-wrap: wrap;
+    }
+    .chip {
+      padding: 5px 12px;
+      border-radius: 20px;
+      font-size: 12px;
+      font-weight: 600;
+      border: 1.5px solid #d1d5db;
+      background: white;
+      color: #374151;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .chip.active { background: #1a56db; color: white; border-color: #1a56db; }
+    .chip.red.active { background: #ef4444; border-color: #ef4444; color: white; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Gestiune Stoc</h1>
+  <p>Romgaz SA — Sângeorgiu de Mureș</p>
+</header>
+
+<div class="search-wrap">
+  <input type="text" id="search" placeholder="Caută cod sau orice cuvânt..." autocomplete="off" autocorrect="off" spellcheck="false">
+
+  <!-- Filtre stoc rapid -->
+  <div class="chip-row">
+    <span class="chip active" data-stoc="toate">Toate</span>
+    <span class="chip" data-stoc="cu-stoc">Cu stoc</span>
+    <span class="chip red" data-stoc="fara-stoc">Fără stoc</span>
+  </div>
+
+  <!-- Filtre dropdown -->
+  <div class="filters">
+    <select id="filtru-categorie">
+      <option value="">Toate categoriile</option>
+      <option value="3021-01">Materiale auxiliare</option>
+      <option value="3022-01">Combustibili</option>
+      <option value="3024-01">Piese schimb</option>
+      <option value="3028-01">Alte materiale</option>
+      <option value="303-01">Obiecte inventar</option>
+    </select>
+    <select id="filtru-um">
+      <option value="">Toate UM</option>
+      <option value="BUC">BUC</option>
+      <option value="CUT">CUT</option>
+      <option value="KGR">KGR</option>
+      <option value="LTR">LTR</option>
+      <option value="MTC">MTC</option>
+      <option value="MTR">MTR</option>
+      <option value="PER">PER</option>
+      <option value="RLA">RLA</option>
+      <option value="SET">SET</option>
+      <option value="SUL">SUL</option>
+    </select>
+  </div>
+
+  <!-- Sortare + Reset -->
+  <div class="sort-row">
+    <select id="sortare">
+      <option value="implicit">Sortare implicită</option>
+      <option value="stoc-desc">Stoc ↓ (mare→mic)</option>
+      <option value="stoc-asc">Stoc ↑ (mic→mare)</option>
+      <option value="az">Denumire A→Z</option>
+      <option value="za">Denumire Z→A</option>
+      <option value="cost-desc">Cost ↓ (mare→mic)</option>
+      <option value="cost-asc">Cost ↑ (mic→mare)</option>
+    </select>
+    <button class="btn-reset" id="btn-reset">Resetează</button>
+  </div>
+</div>
+
+<div class="stats" id="stats">Se încarcă datele...</div>
+<div class="results" id="results"><div style="text-align:center;padding:40px;color:#6b7280">Se încarcă stocul...</div></div>
+
+<script>
+  let stoc = [];
+  let stocFilter = 'toate';
+
+  fetch('stoc.json')
+    .then(r => r.json())
+    .then(data => {
+      stoc = data;
+      render();
+    })
+    .catch(() => {
+      document.getElementById('stats').textContent = 'Eroare la încărcarea datelor';
+      document.getElementById('results').innerHTML = '<div class="empty"><div class="icon">⚠️</div><p>Nu s-a putut încărca stoc.json</p></div>';
+    });
+
+  function parseNum(s) {
+    return parseFloat((s || '0').replace('.', '').replace(',', '.')) || 0;
+  }
+
+  function highlight(text, q) {
+    if (!q) return text;
+    const idx = text.toLowerCase().indexOf(q.toLowerCase());
+    if (idx === -1) return text;
+    return text.substring(0, idx) + '<mark>' + text.substring(idx, idx + q.length) + '</mark>' + text.substring(idx + q.length);
+  }
+
+  function updateStats(shown, total) {
+    document.getElementById('stats').textContent = shown === total
+      ? `${total} materiale în gestiune`
+      : `${shown} din ${total} materiale`;
+  }
+
+  function render() {
+    const q = document.getElementById('search').value.trim().toLowerCase();
+    const cat = document.getElementById('filtru-categorie').value;
+    const um = document.getElementById('filtru-um').value;
+    const sort = document.getElementById('sortare').value;
+
+    let result = stoc.filter(m => {
+      if (q.length >= 1 && !m.cod.toLowerCase().includes(q) && !m.descriere.toLowerCase().includes(q)) return false;
+      if (cat && !m.categorie.includes(cat)) return false;
+      if (um && m.um !== um) return false;
+      const stocVal = parseNum(m.stoc);
+      if (stocFilter === 'cu-stoc' && stocVal <= 0) return false;
+      if (stocFilter === 'fara-stoc' && stocVal > 0) return false;
+      return true;
+    });
+
+    // Sortare
+    if (sort === 'stoc-desc') result.sort((a, b) => parseNum(b.stoc) - parseNum(a.stoc));
+    else if (sort === 'stoc-asc') result.sort((a, b) => parseNum(a.stoc) - parseNum(b.stoc));
+    else if (sort === 'az') result.sort((a, b) => a.descriere.localeCompare(b.descriere));
+    else if (sort === 'za') result.sort((a, b) => b.descriere.localeCompare(a.descriere));
+    else if (sort === 'cost-desc') result.sort((a, b) => parseNum(b.costUnitar) - parseNum(a.costUnitar));
+    else if (sort === 'cost-asc') result.sort((a, b) => parseNum(a.costUnitar) - parseNum(b.costUnitar));
+
+    updateStats(result.length, stoc.length);
+
+    if (result.length === 0) {
+      document.getElementById('results').innerHTML = '<div class="empty"><div class="icon">🔍</div><p>Niciun material găsit</p></div>';
+      return;
+    }
+
+    document.getElementById('results').innerHTML = result.map(m => {
+      const stocVal = parseNum(m.stoc);
+      const isZero = stocVal <= 0;
+      const hq = q.length >= 1 ? q : '';
+      return `
+        <div class="card ${isZero ? 'zero' : ''}">
+          <div class="cod">${highlight(m.cod, hq)}</div>
+          <div class="descriere">${highlight(m.descriere, hq)}</div>
+          <div class="badges">
+            <span class="badge b-stoc ${isZero ? 'zero' : ''}">Stoc: ${m.stoc} ${m.um}</span>
+            <span class="badge b-cost">${m.costUnitar} lei/${m.um}</span>
+            <span class="badge b-val">Val: ${m.valoare} lei</span>
+          </div>
+          <div class="categorie">${m.categorie}</div>
+        </div>`;
+    }).join('');
+  }
+
+  // Chip-uri stoc
+  document.querySelectorAll('.chip[data-stoc]').forEach(chip => {
+    chip.addEventListener('click', function() {
+      document.querySelectorAll('.chip[data-stoc]').forEach(c => c.classList.remove('active'));
+      this.classList.add('active');
+      stocFilter = this.dataset.stoc;
+      render();
+    });
+  });
+
+  // Reset
+  document.getElementById('btn-reset').addEventListener('click', () => {
+    document.getElementById('search').value = '';
+    document.getElementById('filtru-categorie').value = '';
+    document.getElementById('filtru-um').value = '';
+    document.getElementById('sortare').value = 'implicit';
+    stocFilter = 'toate';
+    document.querySelectorAll('.chip[data-stoc]').forEach(c => c.classList.remove('active'));
+    document.querySelector('.chip[data-stoc="toate"]').classList.add('active');
+    document.getElementById('results').innerHTML = '';
+    updateStats(stoc.length, stoc.length);
+  });
+
+  document.getElementById('search').addEventListener('input', render);
+  document.getElementById('filtru-categorie').addEventListener('change', render);
+  document.getElementById('filtru-um').addEventListener('change', render);
+  document.getElementById('sortare').addEventListener('change', render);
+</script>
+
+</body>
+</html>
