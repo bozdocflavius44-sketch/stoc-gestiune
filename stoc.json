@@ -18,35 +18,8 @@
     "categorie": ""
   },
   {
-    "cod": "268112MAX0273",
-    "descriere": "ABRAZIV PE SUPORT TEXTIL LUNGIME=50 M, LATIME=120 MM, GRANULATIE P120",
-    "um": "BUC",
-    "stoc": "1",
-    "costUnitar": "90",
-    "valoare": "90",
-    "categorie": ""
-  },
-  {
-    "cod": "268112MAX0274",
-    "descriere": "ABRAZIV PE SUPORT TEXTIL LUNGIME=50 M, LATIME=120 MM, GRANULATIE P150",
-    "um": "BUC",
-    "stoc": "1",
-    "costUnitar": "110",
-    "valoare": "110",
-    "categorie": ""
-  },
-  {
     "cod": "268112MAX0275",
     "descriere": "ABRAZIV PE SUPORT TEXTIL LUNGIME=50 M, LATIME=120 MM, GRANULATIE P240",
-    "um": "BUC",
-    "stoc": "1",
-    "costUnitar": "110",
-    "valoare": "110",
-    "categorie": ""
-  },
-  {
-    "cod": "268112MAX0269",
-    "descriere": "ABRAZIV PE SUPORT TEXTIL LUNGIME=50 M, LATIME=120 MM, GRANULATIE P40",
     "um": "BUC",
     "stoc": "1",
     "costUnitar": "110",
@@ -132,6 +105,15 @@
     "stoc": "16",
     "costUnitar": "7.12",
     "valoare": "113.92",
+    "categorie": ""
+  },
+  {
+    "cod": "159810APP0005",
+    "descriere": "APA 19L",
+    "um": "BUC",
+    "stoc": "50",
+    "costUnitar": "18.65",
+    "valoare": "932.5",
     "categorie": ""
   },
   {
@@ -336,9 +318,9 @@
     "cod": "315034MAX0057",
     "descriere": "CORP ILUMINAT STRADAL LED 45W 6400K IP66",
     "um": "BUC",
-    "stoc": "73",
+    "stoc": "72",
     "costUnitar": "91.95",
-    "valoare": "6712.35",
+    "valoare": "6620.4",
     "categorie": ""
   },
   {
@@ -387,15 +369,6 @@
     "categorie": ""
   },
   {
-    "cod": "245215UNG0002",
-    "descriere": "CREMA PENTRU MAINI",
-    "um": "BUC",
-    "stoc": "241",
-    "costUnitar": "4.24",
-    "valoare": "1021.84",
-    "categorie": ""
-  },
-  {
     "cod": "272210CUR0023",
     "descriere": "CURBA 2 7/8 CNX210",
     "um": "BUC",
@@ -435,9 +408,9 @@
     "cod": "245132MAX0072",
     "descriere": "DETERGENT AUTOMAT - 400 GRAME",
     "um": "BUC",
-    "stoc": "1844",
+    "stoc": "1686",
     "costUnitar": "3.2",
-    "valoare": "5900.8",
+    "valoare": "5395.2",
     "categorie": ""
   },
   {
@@ -453,18 +426,18 @@
     "cod": "241462DIL0017",
     "descriere": "DILUANT",
     "um": "LTR",
-    "stoc": "383.2",
-    "costUnitar": "6.9866",
-    "valoare": "2677.27",
+    "stoc": "38.2",
+    "costUnitar": "7.005",
+    "valoare": "267.59",
     "categorie": ""
   },
   {
     "cod": "241462DIL0018",
     "descriere": "DILUANT",
     "um": "LTR",
-    "stoc": "25",
-    "costUnitar": "8.108",
-    "valoare": "202.7",
+    "stoc": "21",
+    "costUnitar": "8.1076",
+    "valoare": "170.26",
     "categorie": ""
   },
   {
@@ -480,18 +453,18 @@
     "cod": "268111MAX0015",
     "descriere": "DISC ABRAZIV 125x2",
     "um": "BUC",
-    "stoc": "24",
-    "costUnitar": "2.3133",
-    "valoare": "55.52",
+    "stoc": "22",
+    "costUnitar": "2.3136",
+    "valoare": "50.9",
     "categorie": ""
   },
   {
     "cod": "268111ABZ0019",
     "descriere": "DISC ABRAZIV 230X2",
     "um": "BUC",
-    "stoc": "63",
+    "stoc": "61",
     "costUnitar": "4.65",
-    "valoare": "292.95",
+    "valoare": "283.65",
     "categorie": ""
   },
   {
@@ -534,9 +507,9 @@
     "cod": "287315EBA0001",
     "descriere": "ELECTROZI BAZICI 2,5",
     "um": "KGR",
-    "stoc": "8.55",
+    "stoc": "7.55",
     "costUnitar": "8",
-    "valoare": "68.4",
+    "valoare": "60.4",
     "categorie": ""
   },
   {
@@ -558,48 +531,12 @@
     "categorie": ""
   },
   {
-    "cod": "243012VOP0003",
-    "descriere": "EMAIL ALB",
-    "um": "KGR",
-    "stoc": "50",
-    "costUnitar": "8.38",
-    "valoare": "419",
-    "categorie": ""
-  },
-  {
     "cod": "243012VOP0004",
     "descriere": "EMAIL ALB CLOR CAUCIUC",
     "um": "KGR",
-    "stoc": "70",
-    "costUnitar": "28.6261",
-    "valoare": "2003.83",
-    "categorie": ""
-  },
-  {
-    "cod": "243012VOP0005",
-    "descriere": "EMAIL ALBASTRU",
-    "um": "KGR",
-    "stoc": "350",
-    "costUnitar": "8.38",
-    "valoare": "2933",
-    "categorie": ""
-  },
-  {
-    "cod": "243012VOP0039",
-    "descriere": "EMAIL BRONZ-ALUMINIU",
-    "um": "KGR",
-    "stoc": "320",
-    "costUnitar": "13.81",
-    "valoare": "4419.2",
-    "categorie": ""
-  },
-  {
-    "cod": "243012VOP0012",
-    "descriere": "EMAIL GALBEN",
-    "um": "KGR",
-    "stoc": "175",
-    "costUnitar": "9.62",
-    "valoare": "1683.5",
+    "stoc": "30",
+    "costUnitar": "28.627",
+    "valoare": "858.81",
     "categorie": ""
   },
   {
@@ -624,45 +561,9 @@
     "cod": "243012VOP0017",
     "descriere": "EMAIL MARO",
     "um": "KGR",
-    "stoc": "25",
+    "stoc": "15",
     "costUnitar": "8.38",
-    "valoare": "209.5",
-    "categorie": ""
-  },
-  {
-    "cod": "243012VOP0018",
-    "descriere": "EMAIL NEGRU",
-    "um": "KGR",
-    "stoc": "350",
-    "costUnitar": "8.38",
-    "valoare": "2933",
-    "categorie": ""
-  },
-  {
-    "cod": "243012VOP0022",
-    "descriere": "EMAIL ROSU",
-    "um": "KGR",
-    "stoc": "100",
-    "costUnitar": "9.62",
-    "valoare": "962",
-    "categorie": ""
-  },
-  {
-    "cod": "243012VOP0023",
-    "descriere": "EMAIL VERDE",
-    "um": "KGR",
-    "stoc": "75",
-    "costUnitar": "9.62",
-    "valoare": "721.5",
-    "categorie": ""
-  },
-  {
-    "cod": "242012IEB0004",
-    "descriere": "ERBICID --- <MAT_AUX 302.1>",
-    "um": "LTR",
-    "stoc": "1",
-    "costUnitar": "33",
-    "valoare": "33",
+    "valoare": "125.7",
     "categorie": ""
   },
   {
@@ -687,9 +588,9 @@
     "cod": "252121MAX0472",
     "descriere": "FIR NYLON ROTUND GROSIME 2.4MM PT.MOTOCOASA",
     "um": "MTR",
-    "stoc": "436",
+    "stoc": "236",
     "costUnitar": "0.3",
-    "valoare": "130.8",
+    "valoare": "70.8",
     "categorie": ""
   },
   {
@@ -702,12 +603,21 @@
     "categorie": ""
   },
   {
+    "cod": "222213FIT0004",
+    "descriere": "FISA TRIFAZICA 32/5",
+    "um": "BUC",
+    "stoc": "1",
+    "costUnitar": "19.18",
+    "valoare": "19.18",
+    "categorie": ""
+  },
+  {
     "cod": "272210FLA0012",
     "descriere": "FLANSA 2 1/2\"X140",
     "um": "BUC",
-    "stoc": "3",
+    "stoc": "4",
     "costUnitar": "170",
-    "valoare": "510",
+    "valoare": "680",
     "categorie": ""
   },
   {
@@ -741,9 +651,9 @@
     "cod": "272210FLA0125",
     "descriere": "FLANSA DN50 PN10 --- <MAT_AUX 302.1>",
     "um": "BUC",
-    "stoc": "4",
+    "stoc": "3",
     "costUnitar": "58",
-    "valoare": "232",
+    "valoare": "174",
     "categorie": ""
   },
   {
@@ -828,15 +738,6 @@
     "categorie": ""
   },
   {
-    "cod": "243012GRD0001",
-    "descriere": "GRUND",
-    "um": "KGR",
-    "stoc": "325",
-    "costUnitar": "7.36",
-    "valoare": "2392",
-    "categorie": ""
-  },
-  {
     "cod": "212211HIG0007",
     "descriere": "HARTIE IGENICA ROLA MARE --- <MAT_AUX 302.1>",
     "um": "BUC",
@@ -912,9 +813,9 @@
     "cod": "174025LAV0001",
     "descriere": "LAVETA",
     "um": "BUC",
-    "stoc": "19",
-    "costUnitar": "0.7284",
-    "valoare": "13.84",
+    "stoc": "15",
+    "costUnitar": "0.7253",
+    "valoare": "10.88",
     "categorie": ""
   },
   {
@@ -1035,15 +936,6 @@
     "categorie": ""
   },
   {
-    "cod": "366213MAX0018",
-    "descriere": "PENSULA 60 MM",
-    "um": "BUC",
-    "stoc": "10",
-    "costUnitar": "5.33",
-    "valoare": "53.3",
-    "categorie": ""
-  },
-  {
     "cod": "366213MAX0009",
     "descriere": "PENSULE 100",
     "um": "BUC",
@@ -1053,30 +945,12 @@
     "categorie": ""
   },
   {
-    "cod": "366213PEN0150",
-    "descriere": "PENSULE 30",
-    "um": "BUC",
-    "stoc": "6",
-    "costUnitar": "3.19",
-    "valoare": "19.14",
-    "categorie": ""
-  },
-  {
     "cod": "366213PEN0024",
     "descriere": "PERIE SARMA",
     "um": "BUC",
-    "stoc": "100",
+    "stoc": "1",
     "costUnitar": "10.4",
-    "valoare": "1040",
-    "categorie": ""
-  },
-  {
-    "cod": "366212PEE0008",
-    "descriere": "PERIUTE UNGHII",
-    "um": "BUC",
-    "stoc": "48",
-    "costUnitar": "1.34",
-    "valoare": "64.32",
+    "valoare": "10.4",
     "categorie": ""
   },
   {
@@ -1149,6 +1023,15 @@
     "stoc": "18",
     "costUnitar": "10.5706",
     "valoare": "190.27",
+    "categorie": ""
+  },
+  {
+    "cod": "312027PRI0056",
+    "descriere": "PRIZA TRIFAZ. 32/5",
+    "um": "BUC",
+    "stoc": "1",
+    "costUnitar": "37.38",
+    "valoare": "37.38",
     "categorie": ""
   },
   {
@@ -1233,6 +1116,15 @@
     "categorie": ""
   },
   {
+    "cod": "292425MAX0016",
+    "descriere": "RING 2 1/2\"x350BAR",
+    "um": "BUC",
+    "stoc": "6",
+    "costUnitar": "73.9067",
+    "valoare": "443.44",
+    "categorie": ""
+  },
+  {
     "cod": "292425MAX0018",
     "descriere": "RING 3\"x 350 BAR",
     "um": "BUC",
@@ -1263,9 +1155,9 @@
     "cod": "291313RVI0021",
     "descriere": "ROBINET CU AC 1\"X210",
     "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "233.625",
-    "valoare": "467.25",
+    "stoc": "52",
+    "costUnitar": "478.4281",
+    "valoare": "24878.26",
     "categorie": ""
   },
   {
@@ -1335,9 +1227,9 @@
     "cod": "291313MAX0191",
     "descriere": "ROBINET CU SFERA PENTRU GAZ 1\" X 64 BAR FI-FI",
     "um": "BUC",
-    "stoc": "85",
+    "stoc": "84",
     "costUnitar": "315",
-    "valoare": "26775",
+    "valoare": "26460",
     "categorie": ""
   },
   {
@@ -1389,9 +1281,9 @@
     "cod": "291313MAX0146",
     "descriere": "ROBINET RSE 2 9/16 x 210 bar",
     "um": "BUC",
-    "stoc": "6",
+    "stoc": "2",
     "costUnitar": "7290",
-    "valoare": "43740",
+    "valoare": "14580",
     "categorie": ""
   },
   {
@@ -1515,9 +1407,9 @@
     "cod": "245131SPT0001",
     "descriere": "SAPUN DE TOALETA",
     "um": "BUC",
-    "stoc": "396",
+    "stoc": "76",
     "costUnitar": "2.92",
-    "valoare": "1156.32",
+    "valoare": "221.92",
     "categorie": ""
   },
   {
@@ -1629,24 +1521,6 @@
     "categorie": ""
   },
   {
-    "cod": "241658BTF0015",
-    "descriere": "SNUR TEFLON 6MM",
-    "um": "KGR",
-    "stoc": "10",
-    "costUnitar": "109.969",
-    "valoare": "1099.69",
-    "categorie": ""
-  },
-  {
-    "cod": "241658BTF0026",
-    "descriere": "SNUR TEFLON 8MM",
-    "um": "KGR",
-    "stoc": "10",
-    "costUnitar": "109.969",
-    "valoare": "1099.69",
-    "categorie": ""
-  },
-  {
     "cod": "245132DET0131",
     "descriere": "SOLUTIE PENTRU CURATAT FAIANTA/GRESIE",
     "um": "BUC",
@@ -1668,18 +1542,27 @@
     "cod": "241424SPR0003",
     "descriere": "SPUMANT",
     "um": "KGR",
-    "stoc": "660",
+    "stoc": "440",
     "costUnitar": "7.32",
-    "valoare": "4831.21",
+    "valoare": "3220.81",
     "categorie": ""
   },
   {
     "cod": "241424STK0001",
     "descriere": "STIKSURI",
     "um": "BUC",
-    "stoc": "440",
+    "stoc": "1600",
     "costUnitar": "18",
-    "valoare": "7920",
+    "valoare": "28800",
+    "categorie": ""
+  },
+  {
+    "cod": "291311MAX0140",
+    "descriere": "SUPAPA DE SIGURANTA CU ARC DN50/80 PN64  PR=51 BAR",
+    "um": "BUC",
+    "stoc": "1",
+    "costUnitar": "10975",
+    "valoare": "10975",
     "categorie": ""
   },
   {
@@ -1758,9 +1641,9 @@
     "cod": "272210MAX0427",
     "descriere": "TEAVA INSTALATII  33.7X3",
     "um": "MTR",
-    "stoc": "30",
+    "stoc": "21",
     "costUnitar": "22.67",
-    "valoare": "680.1",
+    "valoare": "476.07",
     "categorie": ""
   },
   {
@@ -1821,9 +1704,9 @@
     "cod": "315015MAX0036",
     "descriere": "TUB LED 1200 MM 220V 18W",
     "um": "BUC",
-    "stoc": "18",
+    "stoc": "16",
     "costUnitar": "6.66",
-    "valoare": "119.88",
+    "valoare": "106.56",
     "categorie": ""
   },
   {
@@ -1857,27 +1740,27 @@
     "cod": "291313RVI0840",
     "descriere": "VENTIL COLTAR 2 9/16\"X210 --- <MAT_AUX 302.1>",
     "um": "BUC",
-    "stoc": "1",
+    "stoc": "2",
     "costUnitar": "9600",
-    "valoare": "9600",
+    "valoare": "19200",
     "categorie": ""
   },
   {
     "cod": "243012VOP0044",
     "descriere": "VOPSEA ARGINTIE PT.TEMPERATURI INALTE",
     "um": "KGR",
-    "stoc": "185",
-    "costUnitar": "84.8635",
-    "valoare": "15699.74",
+    "stoc": "81",
+    "costUnitar": "84.8643",
+    "valoare": "6874.01",
     "categorie": ""
   },
   {
     "cod": "241423MET0003",
     "descriere": "METANOL",
     "um": "KGR",
-    "stoc": "7311",
+    "stoc": "7131",
     "costUnitar": "4.94",
-    "valoare": "36116.39",
+    "valoare": "35227.19",
     "categorie": ""
   },
   {
@@ -1938,9 +1821,9 @@
     "cod": "232031VAL0001",
     "descriere": "VASELINA UM170 LICA2",
     "um": "KGR",
-    "stoc": "164.7",
+    "stoc": "57.9",
     "costUnitar": "13.7",
-    "valoare": "2256.39",
+    "valoare": "793.23",
     "categorie": ""
   },
   {
@@ -2112,15 +1995,6 @@
     "stoc": "4",
     "costUnitar": "90.785",
     "valoare": "363.14",
-    "categorie": ""
-  },
-  {
-    "cod": "332081PSC0443",
-    "descriere": "DOZA EX 122X120MM CU 4 PRESETUPE CALCULATOR DEBIT",
-    "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "665",
-    "valoare": "1330",
     "categorie": ""
   },
   {
@@ -2322,6 +2196,15 @@
     "categorie": ""
   },
   {
+    "cod": "332081PSC0511",
+    "descriere": "TRADUCTOR MULTIVARIABIL DE PRESIUNE COD: 266CST.L.3.K.A.5.A.6.-E2.L1.T1.C1.A1.W20.W59",
+    "um": "BUC",
+    "stoc": "1",
+    "costUnitar": "18237",
+    "valoare": "18237",
+    "categorie": ""
+  },
+  {
     "cod": "282213MAA0003",
     "descriere": "CALORIFER  AUTOMATIZAT GSG DN 65 PN 210  UZURA 70 LA SUTA",
     "um": "BUC",
@@ -2424,9 +2307,9 @@
     "cod": "272210TUB0086",
     "descriere": "TUBING 2 3/8 UZ.50 LA SUTA",
     "um": "MTR",
-    "stoc": "50.17",
+    "stoc": "43.17",
     "costUnitar": "31",
-    "valoare": "1555.27",
+    "valoare": "1338.27",
     "categorie": ""
   },
   {
@@ -2451,9 +2334,9 @@
     "cod": "272210TUB0030",
     "descriere": "TUBING 2 7/8, UZ. 90",
     "um": "MTR",
-    "stoc": "345.93",
+    "stoc": "352.93",
     "costUnitar": "5.8",
-    "valoare": "2006.4",
+    "valoare": "2047",
     "categorie": ""
   },
   {
@@ -2499,15 +2382,6 @@
     "stoc": "49",
     "costUnitar": "80.5665",
     "valoare": "3947.76",
-    "categorie": ""
-  },
-  {
-    "cod": "182442CAP0001",
-    "descriere": "CAPISON",
-    "um": "BUC",
-    "stoc": "1",
-    "costUnitar": "38.59",
-    "valoare": "38.59",
     "categorie": ""
   },
   {
@@ -2595,9 +2469,9 @@
     "cod": "177110SOS0001",
     "descriere": "CIORAPI, SOSETE",
     "um": "PER",
-    "stoc": "276",
+    "stoc": "274",
     "costUnitar": "4.3187",
-    "valoare": "1191.97",
+    "valoare": "1183.33",
     "categorie": ""
   },
   {
@@ -2721,9 +2595,9 @@
     "cod": "182112SLO0020",
     "descriere": "COSTUM SALOPETA --- <OB_INVENT     303.1>",
     "um": "BUC",
-    "stoc": "21",
-    "costUnitar": "394.979",
-    "valoare": "8294.56",
+    "stoc": "19",
+    "costUnitar": "395.5879",
+    "valoare": "7516.17",
     "categorie": ""
   },
   {
@@ -2811,9 +2685,9 @@
     "cod": "182322LCI0003",
     "descriere": "LENJERIE DE CORP(CHILOT,MAIEU,INDISPENSABIL,CAMASA DE CORP) --- <OB_INVENT     303.1>",
     "um": "SET",
-    "stoc": "276",
+    "stoc": "272",
     "costUnitar": "50.17",
-    "valoare": "13846.92",
+    "valoare": "13646.24",
     "categorie": ""
   },
   {
@@ -2829,27 +2703,27 @@
     "cod": "182432MAN0019",
     "descriere": "MANUSI DE PROTECTIE CU  5 DEGETE DIN INLOCUITORI --- <OB_INVENT     303.1>",
     "um": "PER",
-    "stoc": "19",
+    "stoc": "4",
     "costUnitar": "26.8",
-    "valoare": "509.2",
+    "valoare": "107.2",
     "categorie": ""
   },
   {
     "cod": "182432MAN0018",
     "descriere": "MANUSI DE PROTECTIE CU 5 DEGETE DIN PIELE --- <OB_INVENT     303.1>",
     "um": "PER",
-    "stoc": "492",
+    "stoc": "490",
     "costUnitar": "12.9593",
-    "valoare": "6375.98",
+    "valoare": "6350.06",
     "categorie": ""
   },
   {
     "cod": "182432MAN0017",
     "descriere": "MANUSI DE PROTECTIE IMPOTRIVA FRIGULUI SI A UMEZELII --- <OB_INVENT     303.1>",
     "um": "PER",
-    "stoc": "39",
-    "costUnitar": "10.8433",
-    "valoare": "422.89",
+    "stoc": "38",
+    "costUnitar": "10.8439",
+    "valoare": "412.07",
     "categorie": ""
   },
   {
@@ -2910,9 +2784,9 @@
     "cod": "334012OCH0003",
     "descriere": "OCHELARI DE SUDURA",
     "um": "BUC",
-    "stoc": "8",
-    "costUnitar": "17.1075",
-    "valoare": "136.86",
+    "stoc": "7",
+    "costUnitar": "17.1071",
+    "valoare": "119.75",
     "categorie": ""
   },
   {
@@ -2928,9 +2802,9 @@
     "cod": "193031OBI0009",
     "descriere": "PANTOFI CU BOMBEU DE SIGURANTA",
     "um": "PER",
-    "stoc": "20",
-    "costUnitar": "235.6925",
-    "valoare": "4713.85",
+    "stoc": "19",
+    "costUnitar": "235.7195",
+    "valoare": "4478.67",
     "categorie": ""
   },
   {
@@ -2946,18 +2820,18 @@
     "cod": "366213PEN0132",
     "descriere": "PENSULA 50MM",
     "um": "BUC",
-    "stoc": "29",
+    "stoc": "5",
     "costUnitar": "3",
-    "valoare": "87",
+    "valoare": "15",
     "categorie": ""
   },
   {
     "cod": "366213OBI0028",
     "descriere": "PENSULA 75mm",
     "um": "BUC",
-    "stoc": "27",
+    "stoc": "7",
     "costUnitar": "5.5",
-    "valoare": "148.5",
+    "valoare": "38.5",
     "categorie": ""
   },
   {
@@ -3024,6 +2898,24 @@
     "categorie": ""
   },
   {
+    "cod": "292424PSI0061",
+    "descriere": "STINGATOARE P6",
+    "um": "BUC",
+    "stoc": "20",
+    "costUnitar": "88",
+    "valoare": "1760",
+    "categorie": ""
+  },
+  {
+    "cod": "292424PSI0154",
+    "descriere": "STINGATOR  PRESURIZAT CU PULBERE TIP P50",
+    "um": "BUC",
+    "stoc": "2",
+    "costUnitar": "875",
+    "valoare": "1750",
+    "categorie": ""
+  },
+  {
     "cod": "286210UAG0076",
     "descriere": "TIRNACOP 2 KG FORJAT",
     "um": "BUC",
@@ -3045,9 +2937,9 @@
     "cod": "182130OBI0016",
     "descriere": "TRICOU",
     "um": "BUC",
-    "stoc": "272",
+    "stoc": "270",
     "costUnitar": "88.9848",
-    "valoare": "24203.87",
+    "valoare": "24025.9",
     "categorie": ""
   },
   {
