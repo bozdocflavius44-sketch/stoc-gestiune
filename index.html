@@ -245,13 +245,6 @@
 </head>
 <body>
 
-<div id="login-screen">
-  <h2>Gestiune Stoc</h2>
-  <p>Introduceți parola pentru acces</p>
-  <input type="password" id="parola-input" placeholder="Parolă" autocomplete="off">
-  <button onclick="verificaParola()">Intră</button>
-  <div id="login-error">Parolă incorectă. Încearcă din nou.</div>
-</div>
 
 <header>
   <h1>Gestiune Stoc</h1>
@@ -312,26 +305,6 @@
 <div class="results" id="results"><div style="text-align:center;padding:40px;color:#6b7280">Se încarcă stocul...</div></div>
 
 <script>
-  // Login
-  const PAROLA = 'Interventii';
-  if (sessionStorage.getItem('auth') !== '1') {
-    document.getElementById('login-screen').style.display = 'flex';
-  } else {
-    document.getElementById('login-screen').style.display = 'none';
-  }
-  document.getElementById('parola-input').addEventListener('keydown', e => {
-    if (e.key === 'Enter') verificaParola();
-  });
-  function verificaParola() {
-    const val = document.getElementById('parola-input').value;
-    if (val === PAROLA) {
-      sessionStorage.setItem('auth', '1');
-      document.getElementById('login-screen').style.display = 'none';
-    } else {
-      document.getElementById('login-error').style.display = 'block';
-      document.getElementById('parola-input').value = '';
-    }
-  }
 
   let stoc = [];
   let stocFilter = 'toate';
