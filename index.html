@@ -336,7 +336,7 @@
   let stoc = [];
   let stocFilter = 'toate';
 
-  fetch('stoc.json')
+  fetch('stoc.json?v=' + Date.now())
     .then(r => r.json())
     .then(data => {
       stoc = data;
