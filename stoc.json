@@ -6,7 +6,7 @@
     "stoc": "3",
     "costUnitar": "2",
     "valoare": "6",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "268112MAX0272",
@@ -15,7 +15,7 @@
     "stoc": "1",
     "costUnitar": "90",
     "valoare": "90",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "268112MAX0275",
@@ -24,7 +24,7 @@
     "stoc": "1",
     "costUnitar": "110",
     "valoare": "110",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "268112MAX0270",
@@ -33,7 +33,7 @@
     "stoc": "1",
     "costUnitar": "110",
     "valoare": "110",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "268112MAX0271",
@@ -42,16 +42,16 @@
     "stoc": "1",
     "costUnitar": "90",
     "valoare": "90",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "103010MAX0001",
     "descriere": "ABSORBANT BIODEGRADABIL PENTRU PRODUSE PETROLIERE",
     "um": "KGR",
-    "stoc": "76",
+    "stoc": "56",
     "costUnitar": "4.5882",
-    "valoare": "348.7",
-    "categorie": ""
+    "valoare": "256.94",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "241112ACE0001",
@@ -60,7 +60,7 @@
     "stoc": "21.3",
     "costUnitar": "112.0737",
     "valoare": "2387.17",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "241653MAX0047",
@@ -69,7 +69,7 @@
     "stoc": "14",
     "costUnitar": "163.1",
     "valoare": "2283.4",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "241653MAX0100",
@@ -78,7 +78,7 @@
     "stoc": "76.25",
     "costUnitar": "99.6055",
     "valoare": "7594.92",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "241653ADZ0032",
@@ -87,7 +87,7 @@
     "stoc": "22",
     "costUnitar": "54.77",
     "valoare": "1204.94",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "241653ADZ0033",
@@ -96,7 +96,7 @@
     "stoc": "14",
     "costUnitar": "95.32",
     "valoare": "1334.48",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "246633MAX0003",
@@ -105,16 +105,7 @@
     "stoc": "16",
     "costUnitar": "7.12",
     "valoare": "113.92",
-    "categorie": ""
-  },
-  {
-    "cod": "159810APM0009",
-    "descriere": "APA MINERALA 2L",
-    "um": "BUC",
-    "stoc": "282",
-    "costUnitar": "2.6794",
-    "valoare": "755.58",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "252426MAX0002",
@@ -123,7 +114,7 @@
     "stoc": "4",
     "costUnitar": "25",
     "valoare": "100",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "222220BDI0001",
@@ -132,7 +123,7 @@
     "stoc": "7",
     "costUnitar": "1.54",
     "valoare": "10.78",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "222220MAX0043",
@@ -141,7 +132,7 @@
     "stoc": "123",
     "costUnitar": "283.8184",
     "valoare": "34909.66",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "222220MAX0044",
@@ -150,16 +141,16 @@
     "stoc": "121",
     "costUnitar": "132",
     "valoare": "15972",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "241653MAX0219",
     "descriere": "BARA DE TEFLON GRAFITAT D20 X 125 MM",
     "um": "BUC",
-    "stoc": "4",
+    "stoc": "3",
     "costUnitar": "20",
-    "valoare": "80",
-    "categorie": ""
+    "valoare": "60",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "241653MAX0220",
@@ -168,7 +159,7 @@
     "stoc": "3",
     "costUnitar": "25",
     "valoare": "75",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "241653MAX0221",
@@ -177,7 +168,7 @@
     "stoc": "3",
     "costUnitar": "45",
     "valoare": "135",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "241653MAX0222",
@@ -186,7 +177,7 @@
     "stoc": "4",
     "costUnitar": "75",
     "valoare": "300",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "252110MAX0051",
@@ -195,7 +186,7 @@
     "stoc": "1",
     "costUnitar": "35",
     "valoare": "35",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "103010MAX0005",
@@ -204,7 +195,7 @@
     "stoc": "4",
     "costUnitar": "120",
     "valoare": "480",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "315014MAX0022",
@@ -213,7 +204,7 @@
     "stoc": "31",
     "costUnitar": "28.77",
     "valoare": "891.87",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "145010BIT0003",
@@ -222,7 +213,7 @@
     "stoc": "50",
     "costUnitar": "4.55",
     "valoare": "227.5",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "287112BUT0014",
@@ -231,7 +222,7 @@
     "stoc": "5",
     "costUnitar": "105.74",
     "valoare": "528.7",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "313013CEL0138",
@@ -240,7 +231,7 @@
     "stoc": "38",
     "costUnitar": "2.86",
     "valoare": "108.68",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "313013CEL0046",
@@ -249,16 +240,16 @@
     "stoc": "20",
     "costUnitar": "5.94",
     "valoare": "118.8",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "171422CPF0003",
     "descriere": "CANEPA - FUIOR",
     "um": "BUC",
-    "stoc": "15",
+    "stoc": "8",
     "costUnitar": "11.4",
-    "valoare": "171",
-    "categorie": ""
+    "valoare": "91.2",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "251360PMP0063",
@@ -267,7 +258,7 @@
     "stoc": "26",
     "costUnitar": "134",
     "valoare": "3484",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "312024CON0086",
@@ -276,7 +267,7 @@
     "stoc": "1",
     "costUnitar": "37.0815",
     "valoare": "37.08",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "172032MAX0001",
@@ -285,7 +276,7 @@
     "stoc": "18",
     "costUnitar": "16",
     "valoare": "288",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "315025MAX0130",
@@ -294,7 +285,7 @@
     "stoc": "12",
     "costUnitar": "26.39",
     "valoare": "316.68",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "315025MAX0104",
@@ -303,25 +294,25 @@
     "stoc": "10",
     "costUnitar": "43.56",
     "valoare": "435.6",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "315034MAX0056",
     "descriere": "CORP ILUMINAT STRADAL LED 30W 6500K CU SENZOR DE MISCARE SI PANOU SOLAR",
     "um": "BUC",
-    "stoc": "8",
+    "stoc": "6",
     "costUnitar": "102.5",
-    "valoare": "820",
-    "categorie": ""
+    "valoare": "615",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "315034MAX0057",
     "descriere": "CORP ILUMINAT STRADAL LED 45W 6400K IP66",
     "um": "BUC",
-    "stoc": "72",
+    "stoc": "71",
     "costUnitar": "91.95",
-    "valoare": "6620.4",
-    "categorie": ""
+    "valoare": "6528.45",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "252213COS0001",
@@ -330,7 +321,7 @@
     "stoc": "2",
     "costUnitar": "20.63",
     "valoare": "41.26",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272120COT0021",
@@ -339,7 +330,7 @@
     "stoc": "6",
     "costUnitar": "17.55",
     "valoare": "105.3",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272120COL0002",
@@ -348,7 +339,7 @@
     "stoc": "4",
     "costUnitar": "7.2125",
     "valoare": "28.85",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272120COL0003",
@@ -357,7 +348,7 @@
     "stoc": "8",
     "costUnitar": "6.43",
     "valoare": "51.44",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210COT0012",
@@ -366,7 +357,16 @@
     "stoc": "11",
     "costUnitar": "874.2845",
     "valoare": "9617.13",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
+  },
+  {
+    "cod": "245215UNG0002",
+    "descriere": "CREMA PENTRU MAINI",
+    "um": "BUC",
+    "stoc": "88",
+    "costUnitar": "4.24",
+    "valoare": "373.12",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210CUR0023",
@@ -375,25 +375,16 @@
     "stoc": "4",
     "costUnitar": "1620",
     "valoare": "6480",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210CUR0043",
     "descriere": "CURBA F. FILET 1\"*90*64",
     "um": "BUC",
-    "stoc": "5",
+    "stoc": "1",
     "costUnitar": "280",
-    "valoare": "1400",
-    "categorie": ""
-  },
-  {
-    "cod": "251340USC0002",
-    "descriere": "CUREA 3Vx1250 9.5x8x3175",
-    "um": "BUC",
-    "stoc": "8",
-    "costUnitar": "165",
-    "valoare": "1320",
-    "categorie": ""
+    "valoare": "280",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "251340CTR0333",
@@ -402,7 +393,7 @@
     "stoc": "3",
     "costUnitar": "31.93",
     "valoare": "95.79",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "251340MAX0076",
@@ -411,16 +402,16 @@
     "stoc": "2",
     "costUnitar": "150",
     "valoare": "300",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "245132MAX0072",
     "descriere": "DETERGENT AUTOMAT - 400 GRAME",
     "um": "BUC",
-    "stoc": "1686",
+    "stoc": "1370",
     "costUnitar": "3.2",
-    "valoare": "5395.2",
-    "categorie": ""
+    "valoare": "4384",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "245132DET0061",
@@ -429,52 +420,52 @@
     "stoc": "4",
     "costUnitar": "7.17",
     "valoare": "28.68",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "241462DIL0017",
     "descriere": "DILUANT",
     "um": "LTR",
-    "stoc": "43.2",
-    "costUnitar": "7.006",
-    "valoare": "302.66",
-    "categorie": ""
+    "stoc": "38.2",
+    "costUnitar": "7.0068",
+    "valoare": "267.66",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "241462DIL0018",
     "descriere": "DILUANT",
     "um": "LTR",
-    "stoc": "13",
-    "costUnitar": "8.1077",
-    "valoare": "105.4",
-    "categorie": ""
+    "stoc": "7",
+    "costUnitar": "8.1086",
+    "valoare": "56.76",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "268111ABZ0138",
     "descriere": "DISC ABRAZIV 125X4 --- <MAT_AUX 302.1>",
     "um": "BUC",
-    "stoc": "6",
-    "costUnitar": "5.2383",
-    "valoare": "31.43",
-    "categorie": ""
+    "stoc": "5",
+    "costUnitar": "5.24",
+    "valoare": "26.2",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "268111MAX0015",
     "descriere": "DISC ABRAZIV 125x2",
     "um": "BUC",
-    "stoc": "19",
-    "costUnitar": "2.3142",
-    "valoare": "43.97",
-    "categorie": ""
+    "stoc": "4",
+    "costUnitar": "2.3225",
+    "valoare": "9.29",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "268111ABZ0019",
     "descriere": "DISC ABRAZIV 230X2",
     "um": "BUC",
-    "stoc": "48",
+    "stoc": "18",
     "costUnitar": "4.65",
-    "valoare": "223.2",
-    "categorie": ""
+    "valoare": "83.7",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "268111ABZ0020",
@@ -483,7 +474,7 @@
     "stoc": "7",
     "costUnitar": "4.7557",
     "valoare": "33.29",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "268111ABZ0021",
@@ -492,7 +483,7 @@
     "stoc": "7",
     "costUnitar": "5.2871",
     "valoare": "37.01",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "268111ABZ0023",
@@ -501,7 +492,7 @@
     "stoc": "20",
     "costUnitar": "10.535",
     "valoare": "210.7",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "312027MAX0750",
@@ -510,16 +501,7 @@
     "stoc": "7",
     "costUnitar": "495",
     "valoare": "3465",
-    "categorie": ""
-  },
-  {
-    "cod": "287315EBA0001",
-    "descriere": "ELECTROZI BAZICI 2,5",
-    "um": "KGR",
-    "stoc": "5.55",
-    "costUnitar": "8",
-    "valoare": "44.4",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "287315EST0006",
@@ -528,7 +510,7 @@
     "stoc": "1.5",
     "costUnitar": "7.8333",
     "valoare": "11.75",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "287315EST0008",
@@ -537,16 +519,16 @@
     "stoc": "4.3",
     "costUnitar": "7.3465",
     "valoare": "31.59",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
-    "cod": "243012VOP0013",
-    "descriere": "EMAIL GRI",
+    "cod": "243012VOP0039",
+    "descriere": "EMAIL BRONZ-ALUMINIU",
     "um": "KGR",
-    "stoc": "25",
-    "costUnitar": "8.38",
-    "valoare": "209.5",
-    "categorie": ""
+    "stoc": "40",
+    "costUnitar": "12.32",
+    "valoare": "492.8",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "243012VOP0016",
@@ -555,16 +537,7 @@
     "stoc": "50",
     "costUnitar": "30.58",
     "valoare": "1529",
-    "categorie": ""
-  },
-  {
-    "cod": "243012VOP0017",
-    "descriere": "EMAIL MARO",
-    "um": "KGR",
-    "stoc": "15",
-    "costUnitar": "8.38",
-    "valoare": "125.7",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "292452FIL0099",
@@ -573,16 +546,16 @@
     "stoc": "1",
     "costUnitar": "96.01",
     "valoare": "96.01",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "172421PNA0006",
     "descriere": "FINET",
     "um": "MTR",
-    "stoc": "12",
+    "stoc": "7",
     "costUnitar": "7.67",
-    "valoare": "92.04",
-    "categorie": ""
+    "valoare": "53.69",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "312027STE0001",
@@ -591,7 +564,7 @@
     "stoc": "4",
     "costUnitar": "5.2675",
     "valoare": "21.07",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "222213FIT0004",
@@ -600,7 +573,7 @@
     "stoc": "1",
     "costUnitar": "19.18",
     "valoare": "19.18",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210FLA0012",
@@ -609,7 +582,7 @@
     "stoc": "4",
     "costUnitar": "170",
     "valoare": "680",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210FLA0013",
@@ -618,7 +591,7 @@
     "stoc": "10",
     "costUnitar": "210",
     "valoare": "2100",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272220PSF0080",
@@ -627,7 +600,7 @@
     "stoc": "3",
     "costUnitar": "1396.51",
     "valoare": "4189.53",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210FLA0019",
@@ -636,16 +609,16 @@
     "stoc": "3",
     "costUnitar": "215.2",
     "valoare": "645.6",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210FLA0125",
     "descriere": "FLANSA DN50 PN10 --- <MAT_AUX 302.1>",
     "um": "BUC",
-    "stoc": "3",
+    "stoc": "1",
     "costUnitar": "58",
-    "valoare": "174",
-    "categorie": ""
+    "valoare": "58",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210FLA0120",
@@ -654,7 +627,7 @@
     "stoc": "6",
     "costUnitar": "72.545",
     "valoare": "435.27",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "252130FOL0019",
@@ -663,16 +636,7 @@
     "stoc": "85.4",
     "costUnitar": "14.1365",
     "valoare": "1207.26",
-    "categorie": ""
-  },
-  {
-    "cod": "251330MAX0193",
-    "descriere": "FURTUN AER FI 10 x 20MTR",
-    "um": "BUC",
-    "stoc": "6",
-    "costUnitar": "86",
-    "valoare": "516",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "252423GAL0025",
@@ -681,34 +645,7 @@
     "stoc": "1",
     "costUnitar": "5.35",
     "valoare": "5.35",
-    "categorie": ""
-  },
-  {
-    "cod": "2912422PN0034",
-    "descriere": "GARNITURA CAMASA CILINDRU 2PN 160",
-    "um": "BUC",
-    "stoc": "4",
-    "costUnitar": "115",
-    "valoare": "460",
-    "categorie": ""
-  },
-  {
-    "cod": "2912422PN0035",
-    "descriere": "GARNITURA CAPAC SUPAPA 2PN 160",
-    "um": "BUC",
-    "stoc": "8",
-    "costUnitar": "101",
-    "valoare": "808",
-    "categorie": ""
-  },
-  {
-    "cod": "251373GRC0030",
-    "descriere": "GARNITURA CAUCIUC 120X108X10",
-    "um": "BUC",
-    "stoc": "8",
-    "costUnitar": "86",
-    "valoare": "688",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "251373GRC0142",
@@ -717,7 +654,7 @@
     "stoc": "3",
     "costUnitar": "16",
     "valoare": "48",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "251373GRC0141",
@@ -726,7 +663,7 @@
     "stoc": "5",
     "costUnitar": "17",
     "valoare": "85",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "251373GRC0140",
@@ -735,7 +672,7 @@
     "stoc": "5",
     "costUnitar": "20",
     "valoare": "100",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "251373GRC0144",
@@ -744,7 +681,7 @@
     "stoc": "5",
     "costUnitar": "11",
     "valoare": "55",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "251373GRC0143",
@@ -753,16 +690,7 @@
     "stoc": "5",
     "costUnitar": "14",
     "valoare": "70",
-    "categorie": ""
-  },
-  {
-    "cod": "2912422PN0041",
-    "descriere": "GARNITURA TIJA 2PN 160",
-    "um": "BUC",
-    "stoc": "16",
-    "costUnitar": "48",
-    "valoare": "768",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "212211HIG0007",
@@ -771,25 +699,34 @@
     "stoc": "10",
     "costUnitar": "4.712",
     "valoare": "47.12",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "212211HIG0001",
     "descriere": "HARTIE IGIENICA",
     "um": "BUC",
-    "stoc": "8",
-    "costUnitar": "1.1538",
-    "valoare": "9.23",
-    "categorie": ""
+    "stoc": "40",
+    "costUnitar": "1.1515",
+    "valoare": "46.06",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "312025INT0002",
     "descriere": "INTRERUPATOR AG SIMPLU",
     "um": "BUC",
-    "stoc": "1",
-    "costUnitar": "3.87",
-    "valoare": "3.87",
-    "categorie": ""
+    "stoc": "13",
+    "costUnitar": "3.8654",
+    "valoare": "50.25",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
+  },
+  {
+    "cod": "312025INT0007",
+    "descriere": "INTRERUPATOR DUBLU ST",
+    "um": "BUC",
+    "stoc": "12",
+    "costUnitar": "4.3",
+    "valoare": "51.6",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "312025MAX0090",
@@ -798,7 +735,7 @@
     "stoc": "5",
     "costUnitar": "781.558",
     "valoare": "3907.79",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "103010MAX0013",
@@ -807,7 +744,7 @@
     "stoc": "1",
     "costUnitar": "1039.73",
     "valoare": "1039.73",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "103010MAX0004",
@@ -816,7 +753,7 @@
     "stoc": "6",
     "costUnitar": "175",
     "valoare": "1050",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "315015LVF0006",
@@ -825,7 +762,7 @@
     "stoc": "7",
     "costUnitar": "5.3057",
     "valoare": "37.14",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "315014MAX0191",
@@ -834,16 +771,16 @@
     "stoc": "2",
     "costUnitar": "118",
     "valoare": "236",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "174025LAV0001",
     "descriere": "LAVETA",
     "um": "BUC",
-    "stoc": "490",
-    "costUnitar": "0.7288",
-    "valoare": "357.12",
-    "categorie": ""
+    "stoc": "269",
+    "costUnitar": "0.7293",
+    "valoare": "196.17",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "174025MAX0013",
@@ -852,16 +789,16 @@
     "stoc": "174",
     "costUnitar": "2.0111",
     "valoare": "349.93",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210MUF0017",
     "descriere": "MUFA 1/2 X 210 INOX",
     "um": "BUC",
-    "stoc": "5",
-    "costUnitar": "258.376",
-    "valoare": "1291.88",
-    "categorie": ""
+    "stoc": "2",
+    "costUnitar": "258.385",
+    "valoare": "516.77",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272220MAX0033",
@@ -870,7 +807,7 @@
     "stoc": "5",
     "costUnitar": "64.374",
     "valoare": "321.87",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272120MUF0006",
@@ -879,7 +816,7 @@
     "stoc": "8",
     "costUnitar": "1.62",
     "valoare": "12.96",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "332065MAX0001",
@@ -888,7 +825,7 @@
     "stoc": "400",
     "costUnitar": "1.48",
     "valoare": "592",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272220MAX0199",
@@ -897,7 +834,7 @@
     "stoc": "5",
     "costUnitar": "12.6",
     "valoare": "63",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210NIP0017",
@@ -906,7 +843,7 @@
     "stoc": "1",
     "costUnitar": "161.23",
     "valoare": "161.23",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210NIP0018",
@@ -915,16 +852,7 @@
     "stoc": "4",
     "costUnitar": "178.0125",
     "valoare": "712.05",
-    "categorie": ""
-  },
-  {
-    "cod": "271070HEX0010",
-    "descriere": "OTEL HEXAGON 27",
-    "um": "KGR",
-    "stoc": "11",
-    "costUnitar": "8",
-    "valoare": "88",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "271060OLR0014",
@@ -933,7 +861,7 @@
     "stoc": "8",
     "costUnitar": "3.26",
     "valoare": "26.08",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "241111OXT0001",
@@ -942,7 +870,7 @@
     "stoc": "7",
     "costUnitar": "21.52",
     "valoare": "150.64",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "315025MAX0129",
@@ -951,25 +879,16 @@
     "stoc": "3",
     "costUnitar": "69.65",
     "valoare": "208.95",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "245132MAX0136",
     "descriere": "PASTA CURATAT MAINI 500 GR/CUTIE",
     "um": "CUT",
-    "stoc": "129",
-    "costUnitar": "7.6777",
-    "valoare": "990.42",
-    "categorie": ""
-  },
-  {
-    "cod": "366213MAX0009",
-    "descriere": "PENSULE 100",
-    "um": "BUC",
-    "stoc": "1",
-    "costUnitar": "11.73",
-    "valoare": "11.73",
-    "categorie": ""
+    "stoc": "75",
+    "costUnitar": "7.6764",
+    "valoare": "575.73",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "366213PEN0024",
@@ -978,7 +897,7 @@
     "stoc": "1",
     "costUnitar": "10.4",
     "valoare": "10.4",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "268111ABZ0040",
@@ -987,7 +906,16 @@
     "stoc": "2",
     "costUnitar": "102.93",
     "valoare": "205.86",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
+  },
+  {
+    "cod": "287411PIU0012",
+    "descriere": "PIULITA M27",
+    "um": "BUC",
+    "stoc": "24",
+    "costUnitar": "10.41",
+    "valoare": "249.84",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "287411PIU0014",
@@ -996,16 +924,7 @@
     "stoc": "76",
     "costUnitar": "13.42",
     "valoare": "1019.92",
-    "categorie": ""
-  },
-  {
-    "cod": "287411PIU0121",
-    "descriere": "PIULITA PREZON M20 --- <MAT_AUX 302.1>",
-    "um": "BUC",
-    "stoc": "32",
-    "costUnitar": "6.4",
-    "valoare": "204.8",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "268216MAX0131",
@@ -1014,7 +933,7 @@
     "stoc": "9",
     "costUnitar": "15",
     "valoare": "135",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "271060MAX0015",
@@ -1023,7 +942,16 @@
     "stoc": "50",
     "costUnitar": "9.2",
     "valoare": "460",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
+  },
+  {
+    "cod": "312027PRL0007",
+    "descriere": "PRELUNGITOR 5P CP 5M",
+    "um": "BUC",
+    "stoc": "2",
+    "costUnitar": "29.75",
+    "valoare": "59.5",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "287411PRE0183",
@@ -1032,7 +960,7 @@
     "stoc": "8",
     "costUnitar": "6.8262",
     "valoare": "54.61",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "287411PRE0184",
@@ -1041,16 +969,7 @@
     "stoc": "10",
     "costUnitar": "7.305",
     "valoare": "73.05",
-    "categorie": ""
-  },
-  {
-    "cod": "287411PRE0212",
-    "descriere": "PREZON M20X240 --- <MAT_AUX 302.1>",
-    "um": "BUC",
-    "stoc": "10",
-    "costUnitar": "19",
-    "valoare": "190",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "287411MAX0100",
@@ -1059,16 +978,16 @@
     "stoc": "9",
     "costUnitar": "6.7144",
     "valoare": "60.43",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
-    "cod": "287411MAX0101",
-    "descriere": "PREZON M24x250 MM CU 2 PIULITE",
+    "cod": "287411PRE0216",
+    "descriere": "PREZON M27X250 --- <MAT_AUX 302.1>",
     "um": "BUC",
-    "stoc": "18",
-    "costUnitar": "10.5706",
-    "valoare": "190.27",
-    "categorie": ""
+    "stoc": "12",
+    "costUnitar": "41.0433",
+    "valoare": "492.52",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "287413MAX0029",
@@ -1077,7 +996,16 @@
     "stoc": "38",
     "costUnitar": "48.29",
     "valoare": "1835.02",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
+  },
+  {
+    "cod": "312027PRI0003",
+    "descriere": "PRIZA AG CU CP",
+    "um": "BUC",
+    "stoc": "12",
+    "costUnitar": "4.2",
+    "valoare": "50.4",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "312027PRI0056",
@@ -1086,7 +1014,7 @@
     "stoc": "1",
     "costUnitar": "37.38",
     "valoare": "37.38",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210RAC0004",
@@ -1095,25 +1023,16 @@
     "stoc": "143",
     "costUnitar": "216",
     "valoare": "30888",
-    "categorie": ""
-  },
-  {
-    "cod": "272220MAX0030",
-    "descriere": "RACORD OLANDEZ 2\"X 140 BAR",
-    "um": "BUC",
-    "stoc": "5",
-    "costUnitar": "1148.312",
-    "valoare": "5741.56",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272120ROL0006",
     "descriere": "RACORD OLANDEZE 2\"",
     "um": "BUC",
-    "stoc": "8",
-    "costUnitar": "13.4938",
-    "valoare": "107.95",
-    "categorie": ""
+    "stoc": "7",
+    "costUnitar": "13.4943",
+    "valoare": "94.46",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272220MAX0200",
@@ -1122,7 +1041,7 @@
     "stoc": "3",
     "costUnitar": "15.5",
     "valoare": "46.5",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272220MAX0032",
@@ -1131,7 +1050,7 @@
     "stoc": "2",
     "costUnitar": "1658",
     "valoare": "3316",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291311REG0039",
@@ -1140,7 +1059,7 @@
     "stoc": "4",
     "costUnitar": "304",
     "valoare": "1216",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291311REG0116",
@@ -1149,7 +1068,7 @@
     "stoc": "1",
     "costUnitar": "653",
     "valoare": "653",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "201010PSF0005",
@@ -1158,7 +1077,7 @@
     "stoc": "2",
     "costUnitar": "26.945",
     "valoare": "53.89",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "292425MAX0016",
@@ -1167,7 +1086,7 @@
     "stoc": "6",
     "costUnitar": "73.9067",
     "valoare": "443.44",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "292425MAX0018",
@@ -1176,7 +1095,16 @@
     "stoc": "4",
     "costUnitar": "105",
     "valoare": "420",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
+  },
+  {
+    "cod": "291313RVI0838",
+    "descriere": "ROBINET ANTIINGHET 1/2\"X210 --- <MAT_AUX 302.1>",
+    "um": "BUC",
+    "stoc": "40",
+    "costUnitar": "999.8652",
+    "valoare": "39994.61",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291311MAX0029",
@@ -1185,34 +1113,43 @@
     "stoc": "2",
     "costUnitar": "1700.41",
     "valoare": "3400.82",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313RVI0021",
     "descriere": "ROBINET CU AC 1\"X210",
     "um": "BUC",
-    "stoc": "52",
-    "costUnitar": "478.4281",
-    "valoare": "24878.26",
-    "categorie": ""
+    "stoc": "24",
+    "costUnitar": "478.4258",
+    "valoare": "11482.22",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313RVI0022",
     "descriere": "ROBINET CU AC 1/2\"X210",
     "um": "BUC",
-    "stoc": "5",
-    "costUnitar": "399.988",
-    "valoare": "1999.94",
-    "categorie": ""
+    "stoc": "170",
+    "costUnitar": "400",
+    "valoare": "68000",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
+  },
+  {
+    "cod": "291313MAX0138",
+    "descriere": "ROBINET CU AC 1/2''X350BAR",
+    "um": "BUC",
+    "stoc": "4",
+    "costUnitar": "400",
+    "valoare": "1600",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313RVI0285",
     "descriere": "ROBINET CU AC 1/2X210 INOX",
     "um": "BUC",
-    "stoc": "11",
+    "stoc": "61",
     "costUnitar": "1400",
-    "valoare": "15400",
-    "categorie": ""
+    "valoare": "85400",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313MAX0106",
@@ -1221,16 +1158,7 @@
     "stoc": "10",
     "costUnitar": "6300",
     "valoare": "63000",
-    "categorie": ""
-  },
-  {
-    "cod": "291313MAX0041",
-    "descriere": "ROBINET CU SFERA 1 1/2''X 64BAR",
-    "um": "BUC",
-    "stoc": "8",
-    "costUnitar": "439.19",
-    "valoare": "3513.52",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313MAX0039",
@@ -1239,34 +1167,34 @@
     "stoc": "11",
     "costUnitar": "380.3027",
     "valoare": "4183.33",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313MAX0033",
     "descriere": "ROBINET CU SFERA 1/2''X 64BAR",
     "um": "BUC",
-    "stoc": "14",
+    "stoc": "1",
     "costUnitar": "189",
-    "valoare": "2646",
-    "categorie": ""
+    "valoare": "189",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313MAX0191",
     "descriere": "ROBINET CU SFERA PENTRU GAZ 1\" X 64 BAR FI-FI",
     "um": "BUC",
-    "stoc": "84",
+    "stoc": "72",
     "costUnitar": "315",
-    "valoare": "26460",
-    "categorie": ""
+    "valoare": "22680",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313MAX0184",
     "descriere": "ROBINET CU SFERA PENTRU GAZ 2\" X 64 BAR FI-FI",
     "um": "BUC",
-    "stoc": "138",
+    "stoc": "116",
     "costUnitar": "719.2648",
-    "valoare": "99258.54",
-    "categorie": ""
+    "valoare": "83434.72",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313MAX0194",
@@ -1275,7 +1203,7 @@
     "stoc": "54",
     "costUnitar": "252",
     "valoare": "13608",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313RVI0221",
@@ -1284,7 +1212,7 @@
     "stoc": "3",
     "costUnitar": "444.96",
     "valoare": "1334.88",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291311MAX0004",
@@ -1293,7 +1221,7 @@
     "stoc": "7",
     "costUnitar": "899.7143",
     "valoare": "6298",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313MAX0145",
@@ -1302,16 +1230,25 @@
     "stoc": "9",
     "costUnitar": "6329.4322",
     "valoare": "56964.89",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313MAX0146",
     "descriere": "ROBINET RSE 2 9/16 x 210 bar",
     "um": "BUC",
-    "stoc": "1",
+    "stoc": "3",
     "costUnitar": "7290",
-    "valoare": "7290",
-    "categorie": ""
+    "valoare": "21870",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
+  },
+  {
+    "cod": "291313MAX0147",
+    "descriere": "ROBINET RSE 2 9/16 x 350 bar",
+    "um": "BUC",
+    "stoc": "8",
+    "costUnitar": "7830",
+    "valoare": "62640",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313MAX0016",
@@ -1320,7 +1257,7 @@
     "stoc": "1",
     "costUnitar": "1165",
     "valoare": "1165",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313MAX0152",
@@ -1329,61 +1266,61 @@
     "stoc": "1",
     "costUnitar": "1485",
     "valoare": "1485",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313RVI0045",
     "descriere": "ROBINET RSPTN DN100 PN64",
     "um": "BUC",
-    "stoc": "1",
-    "costUnitar": "917.64",
-    "valoare": "917.64",
-    "categorie": ""
+    "stoc": "8",
+    "costUnitar": "1593.455",
+    "valoare": "12747.64",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313RVI0052",
     "descriere": "ROBINET RSPTN DN50 PN10",
     "um": "BUC",
-    "stoc": "18",
+    "stoc": "23",
     "costUnitar": "480",
-    "valoare": "8640",
-    "categorie": ""
+    "valoare": "11040",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313RVI0053",
     "descriere": "ROBINET RSPTN DN50 PN16",
     "um": "BUC",
-    "stoc": "21",
-    "costUnitar": "511.9029",
-    "valoare": "10749.96",
-    "categorie": ""
+    "stoc": "26",
+    "costUnitar": "509.1062",
+    "valoare": "13236.76",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313RVI0054",
     "descriere": "ROBINET RSPTN DN50 PN25",
     "um": "BUC",
-    "stoc": "16",
+    "stoc": "17",
     "costUnitar": "495",
-    "valoare": "7920",
-    "categorie": ""
+    "valoare": "8415",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313RVI0055",
     "descriere": "ROBINET RSPTN DN50 PN40",
     "um": "BUC",
-    "stoc": "11",
-    "costUnitar": "512.9545",
-    "valoare": "5642.5",
-    "categorie": ""
+    "stoc": "13",
+    "costUnitar": "511.2938",
+    "valoare": "6646.82",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313RVI0056",
     "descriere": "ROBINET RSPTN DN50 PN64",
     "um": "BUC",
-    "stoc": "13",
-    "costUnitar": "742.93",
-    "valoare": "9658.09",
-    "categorie": ""
+    "stoc": "12",
+    "costUnitar": "743.6875",
+    "valoare": "8924.25",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313MAX0153",
@@ -1392,7 +1329,7 @@
     "stoc": "2",
     "costUnitar": "1121",
     "valoare": "2242",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "252211PGP0004",
@@ -1401,7 +1338,7 @@
     "stoc": "38",
     "costUnitar": "3.31",
     "valoare": "125.78",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "252211MAX0007",
@@ -1410,7 +1347,7 @@
     "stoc": "16",
     "costUnitar": "5.4731",
     "valoare": "87.57",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "252211PGP0006",
@@ -1419,7 +1356,7 @@
     "stoc": "34",
     "costUnitar": "1.7779",
     "valoare": "60.45",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "252211PGP0007",
@@ -1428,16 +1365,25 @@
     "stoc": "39",
     "costUnitar": "2.9974",
     "valoare": "116.9",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "245131SPT0001",
     "descriere": "SAPUN DE TOALETA",
     "um": "BUC",
-    "stoc": "76",
+    "stoc": "146",
     "costUnitar": "2.92",
-    "valoare": "221.92",
-    "categorie": ""
+    "valoare": "426.32",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
+  },
+  {
+    "cod": "245131MAX0001",
+    "descriere": "SAPUN LICHID",
+    "um": "LTR",
+    "stoc": "35",
+    "costUnitar": "2.4114",
+    "valoare": "84.4",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "287312MAX0002",
@@ -1446,7 +1392,7 @@
     "stoc": "6",
     "costUnitar": "80",
     "valoare": "480",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "252423SIG0001",
@@ -1455,7 +1401,7 @@
     "stoc": "100",
     "costUnitar": "0.65",
     "valoare": "65",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "312024MAX0011",
@@ -1464,7 +1410,7 @@
     "stoc": "10",
     "costUnitar": "13.395",
     "valoare": "133.95",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "312024MAX0030",
@@ -1473,7 +1419,7 @@
     "stoc": "12",
     "costUnitar": "14",
     "valoare": "168",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "312024MAX0067",
@@ -1482,7 +1428,7 @@
     "stoc": "1",
     "costUnitar": "27",
     "valoare": "27",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "312021MAX0106",
@@ -1491,7 +1437,7 @@
     "stoc": "5",
     "costUnitar": "87.9",
     "valoare": "439.5",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "312021MAX0037",
@@ -1500,7 +1446,7 @@
     "stoc": "6",
     "costUnitar": "86.09",
     "valoare": "516.54",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "312023SIG0029",
@@ -1509,7 +1455,7 @@
     "stoc": "5",
     "costUnitar": "40.344",
     "valoare": "201.72",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "312023SIG0012",
@@ -1518,7 +1464,7 @@
     "stoc": "5",
     "costUnitar": "13.89",
     "valoare": "69.45",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "312021MAX0042",
@@ -1527,7 +1473,7 @@
     "stoc": "3",
     "costUnitar": "9",
     "valoare": "27",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "312021SIG0081",
@@ -1536,16 +1482,7 @@
     "stoc": "3",
     "costUnitar": "9",
     "valoare": "27",
-    "categorie": ""
-  },
-  {
-    "cod": "251373SMR0262",
-    "descriere": "SIMERING 40X60X10",
-    "um": "BUC",
-    "stoc": "4",
-    "costUnitar": "21",
-    "valoare": "84",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "251373MAX0398",
@@ -1554,7 +1491,7 @@
     "stoc": "5",
     "costUnitar": "27.96",
     "valoare": "139.8",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "245132DET0131",
@@ -1563,34 +1500,25 @@
     "stoc": "19",
     "costUnitar": "7.1637",
     "valoare": "136.11",
-    "categorie": ""
-  },
-  {
-    "cod": "242011MAX0005",
-    "descriere": "SPRAY CONTRA VIESPILOR",
-    "um": "BUC",
-    "stoc": "1",
-    "costUnitar": "23",
-    "valoare": "23",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "241424SPR0003",
     "descriere": "SPUMANT",
     "um": "KGR",
-    "stoc": "440",
-    "costUnitar": "7.32",
-    "valoare": "3220.81",
-    "categorie": ""
+    "stoc": "880",
+    "costUnitar": "8.24",
+    "valoare": "7251.21",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "241424STK0001",
     "descriere": "STIKSURI",
     "um": "BUC",
-    "stoc": "2280",
+    "stoc": "1960",
     "costUnitar": "18",
-    "valoare": "41040",
-    "categorie": ""
+    "valoare": "35280",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291311MAX0140",
@@ -1599,7 +1527,7 @@
     "stoc": "1",
     "costUnitar": "10975",
     "valoare": "10975",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291311MAX0141",
@@ -1608,7 +1536,7 @@
     "stoc": "1",
     "costUnitar": "18334",
     "valoare": "18334",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291311MAX0055",
@@ -1617,7 +1545,7 @@
     "stoc": "1",
     "costUnitar": "718",
     "valoare": "718",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "271060MAX0341",
@@ -1626,7 +1554,7 @@
     "stoc": "0.28",
     "costUnitar": "2182.4643",
     "valoare": "611.09",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "312027MAX0217",
@@ -1635,7 +1563,7 @@
     "stoc": "6",
     "costUnitar": "8.3",
     "valoare": "49.8",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210TCT0002",
@@ -1644,7 +1572,7 @@
     "stoc": "109.5",
     "costUnitar": "85.321",
     "valoare": "9342.65",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210TCT0012",
@@ -1653,16 +1581,7 @@
     "stoc": "68",
     "costUnitar": "53.1",
     "valoare": "3610.8",
-    "categorie": ""
-  },
-  {
-    "cod": "272210MAX0361",
-    "descriere": "TEAVA DIN OTEL FARA SUDURA FI 26.9X3.2",
-    "um": "MTR",
-    "stoc": "3",
-    "costUnitar": "21.22",
-    "valoare": "63.66",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210TIX0006",
@@ -1671,25 +1590,25 @@
     "stoc": "10.5",
     "costUnitar": "36.5434",
     "valoare": "383.71",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210MAX0427",
     "descriere": "TEAVA INSTALATII  33.7X3",
     "um": "MTR",
-    "stoc": "21",
+    "stoc": "15",
     "costUnitar": "22.67",
-    "valoare": "476.07",
-    "categorie": ""
+    "valoare": "340.05",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210TVI0006",
     "descriere": "TEAVA INSTALATII 1/2\"",
     "um": "MTR",
-    "stoc": "31.26",
+    "stoc": "28.26",
     "costUnitar": "10.0998",
-    "valoare": "315.72",
-    "categorie": ""
+    "valoare": "285.42",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210TVI0018",
@@ -1698,7 +1617,7 @@
     "stoc": "41.08",
     "costUnitar": "12.4893",
     "valoare": "513.06",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210TCT0039",
@@ -1707,7 +1626,7 @@
     "stoc": "4.3",
     "costUnitar": "26.3",
     "valoare": "113.09",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210MAX0462",
@@ -1716,7 +1635,7 @@
     "stoc": "3.13",
     "costUnitar": "284",
     "valoare": "888.92",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210MAX0465",
@@ -1725,16 +1644,16 @@
     "stoc": "24",
     "costUnitar": "339",
     "valoare": "8136",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272220MAX0035",
     "descriere": "TEU EGAL 2\" X 140 BAR",
     "um": "BUC",
-    "stoc": "3",
-    "costUnitar": "534.4167",
-    "valoare": "1603.25",
-    "categorie": ""
+    "stoc": "6",
+    "costUnitar": "636.365",
+    "valoare": "3818.19",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "315015MAX0036",
@@ -1743,7 +1662,7 @@
     "stoc": "16",
     "costUnitar": "6.66",
     "valoare": "106.56",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "315015MAX0056",
@@ -1752,7 +1671,7 @@
     "stoc": "20",
     "costUnitar": "5.38",
     "valoare": "107.6",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "272210PSF0001",
@@ -1761,16 +1680,25 @@
     "stoc": "185.2",
     "costUnitar": "66.1372",
     "valoare": "12248.61",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "291313RVI0065",
     "descriere": "VENTIL COLTAR 1\"",
     "um": "BUC",
-    "stoc": "27",
-    "costUnitar": "668.2115",
-    "valoare": "18041.71",
-    "categorie": ""
+    "stoc": "11",
+    "costUnitar": "668.2136",
+    "valoare": "7350.35",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
+  },
+  {
+    "cod": "291313RVI0841",
+    "descriere": "VENTIL COLTAR 2 9/16\"X350 --- <MAT_AUX 302.1>",
+    "um": "BUC",
+    "stoc": "7",
+    "costUnitar": "11160.9843",
+    "valoare": "78126.89",
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "243012VOP0044",
@@ -1779,43 +1707,43 @@
     "stoc": "61",
     "costUnitar": "84.8646",
     "valoare": "5176.74",
-    "categorie": ""
+    "categorie": "3021-01 - MAT.MAX.NDF - Materiale auxiliare - altele"
   },
   {
     "cod": "241423MET0003",
     "descriere": "METANOL",
     "um": "KGR",
-    "stoc": "7131",
+    "stoc": "6851",
     "costUnitar": "4.94",
-    "valoare": "35227.19",
-    "categorie": ""
+    "valoare": "33843.99",
+    "categorie": "3022-01 - MAT.CMB.NDF - Combustibili"
   },
   {
-    "cod": "232018ULE0109",
-    "descriere": "ULEI HAVOLINE ENERGY 5W30",
+    "cod": "232018ULE0225",
+    "descriere": "ULEI HAVOLINE PRO DS V 5W30",
     "um": "LTR",
-    "stoc": "14",
-    "costUnitar": "9.2957",
-    "valoare": "130.14",
-    "categorie": ""
+    "stoc": "23",
+    "costUnitar": "22.32",
+    "valoare": "513.36",
+    "categorie": "3022-01 - MAT.CMB.NDF - Combustibili"
   },
   {
     "cod": "232018USA0001",
     "descriere": "ULEI SAE 80W90",
     "um": "LTR",
-    "stoc": "148",
+    "stoc": "166",
     "costUnitar": "8.68",
-    "valoare": "1284.64",
-    "categorie": ""
+    "valoare": "1440.88",
+    "categorie": "3022-01 - MAT.CMB.NDF - Combustibili"
   },
   {
     "cod": "232031VAL0001",
     "descriere": "VASELINA UM170 LICA2",
     "um": "KGR",
-    "stoc": "44.9",
+    "stoc": "41.9",
     "costUnitar": "13.7",
-    "valoare": "615.13",
-    "categorie": ""
+    "valoare": "574.03",
+    "categorie": "3022-01 - MAT.CMB.NDF - Combustibili"
   },
   {
     "cod": "314021PSC0063",
@@ -1824,16 +1752,16 @@
     "stoc": "4",
     "costUnitar": "35",
     "valoare": "140",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "314021PSC0080",
     "descriere": "ACUMULATOR AGM/VRLA 12V 26-28AH",
     "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "185.94",
-    "valoare": "371.88",
-    "categorie": ""
+    "stoc": "1",
+    "costUnitar": "185.95",
+    "valoare": "185.95",
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "314021PSC0078",
@@ -1842,7 +1770,7 @@
     "stoc": "1",
     "costUnitar": "613.69",
     "valoare": "613.69",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "314023PSC0078",
@@ -1851,7 +1779,7 @@
     "stoc": "1",
     "costUnitar": "17.84",
     "valoare": "17.84",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "292330PUG0013",
@@ -1860,7 +1788,7 @@
     "stoc": "1",
     "costUnitar": "822.54",
     "valoare": "822.54",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "2912422PN0013",
@@ -1869,16 +1797,7 @@
     "stoc": "31",
     "costUnitar": "7.8481",
     "valoare": "243.29",
-    "categorie": ""
-  },
-  {
-    "cod": "2912422PN0025",
-    "descriere": "CAMASI POMPA 2PN - 160 3 1/2",
-    "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "3177",
-    "valoare": "6354",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "292452PSC0734",
@@ -1887,7 +1806,7 @@
     "stoc": "21",
     "costUnitar": "479.55",
     "valoare": "10070.55",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "291242PSC0033",
@@ -1896,7 +1815,7 @@
     "stoc": "1",
     "costUnitar": "1078.32",
     "valoare": "1078.32",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "332081PSF0027",
@@ -1905,7 +1824,7 @@
     "stoc": "1",
     "costUnitar": "8476.32",
     "valoare": "8476.32",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "251340PSC0071",
@@ -1914,7 +1833,7 @@
     "stoc": "2",
     "costUnitar": "69.9",
     "valoare": "139.8",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "251340USC0007",
@@ -1923,7 +1842,7 @@
     "stoc": "2",
     "costUnitar": "143.02",
     "valoare": "286.04",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "251340PSC0197",
@@ -1932,7 +1851,7 @@
     "stoc": "6",
     "costUnitar": "66",
     "valoare": "396",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "332081PSF0016",
@@ -1941,7 +1860,7 @@
     "stoc": "21",
     "costUnitar": "861.1024",
     "valoare": "18083.15",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "332083PSV0096",
@@ -1950,7 +1869,7 @@
     "stoc": "2",
     "costUnitar": "693.06",
     "valoare": "1386.12",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "332083PSV0098",
@@ -1959,7 +1878,7 @@
     "stoc": "2",
     "costUnitar": "990.525",
     "valoare": "1981.05",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "332081PSC0194",
@@ -1968,7 +1887,7 @@
     "stoc": "1",
     "costUnitar": "742",
     "valoare": "742",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "332081PSC0193",
@@ -1977,7 +1896,7 @@
     "stoc": "1",
     "costUnitar": "742",
     "valoare": "742",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "332081PSC0192",
@@ -1986,7 +1905,7 @@
     "stoc": "1",
     "costUnitar": "742",
     "valoare": "742",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "272210DOP0004",
@@ -1995,7 +1914,7 @@
     "stoc": "4",
     "costUnitar": "90.785",
     "valoare": "363.14",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "291242PSC0384",
@@ -2004,7 +1923,7 @@
     "stoc": "2",
     "costUnitar": "141.665",
     "valoare": "283.33",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "292452PSC0714",
@@ -2013,7 +1932,7 @@
     "stoc": "14",
     "costUnitar": "1236.25",
     "valoare": "17307.5",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "292314PSC0067",
@@ -2022,7 +1941,7 @@
     "stoc": "1",
     "costUnitar": "250",
     "valoare": "250",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "295261PSC2142",
@@ -2031,34 +1950,7 @@
     "stoc": "4",
     "costUnitar": "4.55",
     "valoare": "18.2",
-    "categorie": ""
-  },
-  {
-    "cod": "291242PSC0272",
-    "descriere": "GARNITURA COD 617.75-01.26.00.1 POIMPA 2PN 160",
-    "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "68",
-    "valoare": "136",
-    "categorie": ""
-  },
-  {
-    "cod": "291242PSC0423",
-    "descriere": "INEL ETANSARE CILINDRU 107X117X6 2PN-160",
-    "um": "BUC",
-    "stoc": "4",
-    "costUnitar": "133",
-    "valoare": "532",
-    "categorie": ""
-  },
-  {
-    "cod": "291242PSC0422",
-    "descriere": "INEL ETANSARE CILINDRU 116X139X13 2 PN-160",
-    "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "147",
-    "valoare": "294",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "286250PSC0016",
@@ -2067,7 +1959,7 @@
     "stoc": "8",
     "costUnitar": "121.01",
     "valoare": "968.08",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "291243PSC4736",
@@ -2076,7 +1968,7 @@
     "stoc": "7",
     "costUnitar": "161.46",
     "valoare": "1130.22",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "291243PSC4737",
@@ -2085,7 +1977,7 @@
     "stoc": "5",
     "costUnitar": "167.27",
     "valoare": "836.35",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "272210NIP0011",
@@ -2094,7 +1986,7 @@
     "stoc": "1",
     "costUnitar": "500",
     "valoare": "500",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "272210NIP0045",
@@ -2103,7 +1995,7 @@
     "stoc": "4",
     "costUnitar": "696.1675",
     "valoare": "2784.67",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "291243PSC4729",
@@ -2112,25 +2004,25 @@
     "stoc": "7",
     "costUnitar": "206.21",
     "valoare": "1443.47",
-    "categorie": ""
-  },
-  {
-    "cod": "2912422PN0049",
-    "descriere": "PISTON 3 1/2\" 2PN X 160",
-    "um": "BUC",
-    "stoc": "4",
-    "costUnitar": "1295",
-    "valoare": "5180",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "291242PSC0032",
     "descriere": "PISTON B COD 346718306 B POMPA TX 155 M",
     "um": "BUC",
     "stoc": "1",
-    "costUnitar": "378",
-    "valoare": "378",
-    "categorie": ""
+    "costUnitar": "1164.86",
+    "valoare": "1164.86",
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
+  },
+  {
+    "cod": "291242PNO0137",
+    "descriere": "POMPA CU ROTI DINTATE G 3/8",
+    "um": "BUC",
+    "stoc": "3",
+    "costUnitar": "1392",
+    "valoare": "4176",
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "291221PMP0025",
@@ -2139,7 +2031,16 @@
     "stoc": "1",
     "costUnitar": "477",
     "valoare": "477",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
+  },
+  {
+    "cod": "291224PPA0188",
+    "descriere": "POMPA ROTI DINTATE G 3/8",
+    "um": "BUC",
+    "stoc": "1",
+    "costUnitar": "1392",
+    "valoare": "1392",
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "332052PST0026",
@@ -2148,7 +2049,7 @@
     "stoc": "2",
     "costUnitar": "650",
     "valoare": "1300",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "291313RVI0176",
@@ -2157,16 +2058,16 @@
     "stoc": "1",
     "costUnitar": "2245.22",
     "valoare": "2245.22",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
-    "cod": "251373PSC0060",
-    "descriere": "SIMERING  115 X 140 X 13",
+    "cod": "291313RVI0295",
+    "descriere": "ROBINET RSPTN DN80 PN64",
     "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "98",
-    "valoare": "196",
-    "categorie": ""
+    "stoc": "5",
+    "costUnitar": "1240",
+    "valoare": "6200",
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "286250PSC0095",
@@ -2175,7 +2076,7 @@
     "stoc": "4",
     "costUnitar": "236.98",
     "valoare": "947.92",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "291243PSC4725",
@@ -2184,7 +2085,7 @@
     "stoc": "1",
     "costUnitar": "531.04",
     "valoare": "531.04",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "291243PSC4730",
@@ -2193,25 +2094,7 @@
     "stoc": "10",
     "costUnitar": "12.585",
     "valoare": "125.85",
-    "categorie": ""
-  },
-  {
-    "cod": "291242PSC0044",
-    "descriere": "SUPAPA COD 34671830200 POMPA TX 155 M",
-    "um": "BUC",
-    "stoc": "3",
-    "costUnitar": "197.45",
-    "valoare": "592.35",
-    "categorie": ""
-  },
-  {
-    "cod": "2912422PN0069",
-    "descriere": "SUPAPA COMPLETA 2PN X 160",
-    "um": "BUC",
-    "stoc": "8",
-    "costUnitar": "1300",
-    "valoare": "10400",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "282213PSC0073",
@@ -2220,7 +2103,7 @@
     "stoc": "4",
     "costUnitar": "1264",
     "valoare": "5056",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "292330PUG0129",
@@ -2229,25 +2112,16 @@
     "stoc": "2",
     "costUnitar": "138.93",
     "valoare": "277.86",
-    "categorie": ""
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "272210TEU0025",
     "descriere": "TEU MASIV 2 7/8 CIX210",
     "um": "BUC",
-    "stoc": "2",
+    "stoc": "1",
     "costUnitar": "290.43",
-    "valoare": "580.86",
-    "categorie": ""
-  },
-  {
-    "cod": "2912422PN0073",
-    "descriere": "TIJA PISTON 2PN X 160",
-    "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "1553",
-    "valoare": "3106",
-    "categorie": ""
+    "valoare": "290.43",
+    "categorie": "3024-01 - MAT.PSC.NDF - Piese schimb - altele"
   },
   {
     "cod": "282213MAA0003",
@@ -2256,7 +2130,7 @@
     "stoc": "1",
     "costUnitar": "91238.98",
     "valoare": "91238.98",
-    "categorie": ""
+    "categorie": "3028-01 - MAT.MAA.NDF - Alte materiale consumabile"
   },
   {
     "cod": "292314MAA0002",
@@ -2265,7 +2139,7 @@
     "stoc": "1",
     "costUnitar": "21600",
     "valoare": "21600",
-    "categorie": ""
+    "categorie": "3028-01 - MAT.MAA.NDF - Alte materiale consumabile"
   },
   {
     "cod": "282111MAA0022",
@@ -2274,7 +2148,7 @@
     "stoc": "1",
     "costUnitar": "18624",
     "valoare": "18624",
-    "categorie": ""
+    "categorie": "3028-01 - MAT.MAA.NDF - Alte materiale consumabile"
   },
   {
     "cod": "291313MAA0025",
@@ -2283,7 +2157,7 @@
     "stoc": "1",
     "costUnitar": "230",
     "valoare": "230",
-    "categorie": ""
+    "categorie": "3028-01 - MAT.MAA.NDF - Alte materiale consumabile"
   },
   {
     "cod": "292452MAA0017",
@@ -2292,7 +2166,7 @@
     "stoc": "1",
     "costUnitar": "1648.5",
     "valoare": "1648.5",
-    "categorie": ""
+    "categorie": "3028-01 - MAT.MAA.NDF - Alte materiale consumabile"
   },
   {
     "cod": "292452MAA0018",
@@ -2301,7 +2175,7 @@
     "stoc": "1",
     "costUnitar": "9600",
     "valoare": "9600",
-    "categorie": ""
+    "categorie": "3028-01 - MAT.MAA.NDF - Alte materiale consumabile"
   },
   {
     "cod": "272210MAA0156",
@@ -2310,7 +2184,7 @@
     "stoc": "26.1",
     "costUnitar": "83.5",
     "valoare": "2179.35",
-    "categorie": ""
+    "categorie": "3028-01 - MAT.MAA.NDF - Alte materiale consumabile"
   },
   {
     "cod": "272210MAA0187",
@@ -2319,7 +2193,7 @@
     "stoc": "259",
     "costUnitar": "56.1",
     "valoare": "14529.9",
-    "categorie": ""
+    "categorie": "3028-01 - MAT.MAA.NDF - Alte materiale consumabile"
   },
   {
     "cod": "272210TCT0073",
@@ -2328,7 +2202,7 @@
     "stoc": "492.17",
     "costUnitar": "108.75",
     "valoare": "53523.47",
-    "categorie": ""
+    "categorie": "3028-01 - MAT.MAA.NDF - Alte materiale consumabile"
   },
   {
     "cod": "272210TUB0084",
@@ -2337,25 +2211,25 @@
     "stoc": "81.49",
     "costUnitar": "33.1",
     "valoare": "2697.32",
-    "categorie": ""
+    "categorie": "3028-01 - MAT.MAA.NDF - Alte materiale consumabile"
   },
   {
     "cod": "272210TUB0128",
     "descriere": "TUBING 2 1/2\" UZURA 90 --- <ALTE_MAT_CONS 302.8>",
     "um": "MTR",
-    "stoc": "916.44",
+    "stoc": "911.44",
     "costUnitar": "5.13",
-    "valoare": "4701.34",
-    "categorie": ""
+    "valoare": "4675.69",
+    "categorie": "3028-01 - MAT.MAA.NDF - Alte materiale consumabile"
   },
   {
     "cod": "272210TUB0086",
     "descriere": "TUBING 2 3/8 UZ.50 LA SUTA",
     "um": "MTR",
-    "stoc": "43.17",
+    "stoc": "18.17",
     "costUnitar": "31",
-    "valoare": "1338.27",
-    "categorie": ""
+    "valoare": "563.27",
+    "categorie": "3028-01 - MAT.MAA.NDF - Alte materiale consumabile"
   },
   {
     "cod": "272210MAA0020",
@@ -2364,7 +2238,7 @@
     "stoc": "1.12",
     "costUnitar": "25.9643",
     "valoare": "29.08",
-    "categorie": ""
+    "categorie": "3028-01 - MAT.MAA.NDF - Alte materiale consumabile"
   },
   {
     "cod": "272210PSF0002",
@@ -2373,16 +2247,16 @@
     "stoc": "3.94",
     "costUnitar": "42.0888",
     "valoare": "165.83",
-    "categorie": ""
+    "categorie": "3028-01 - MAT.MAA.NDF - Alte materiale consumabile"
   },
   {
     "cod": "272210TUB0030",
     "descriere": "TUBING 2 7/8, UZ. 90",
     "um": "MTR",
-    "stoc": "352.93",
+    "stoc": "360.93",
     "costUnitar": "5.8",
-    "valoare": "2047",
-    "categorie": ""
+    "valoare": "2093.39",
+    "categorie": "3028-01 - MAT.MAA.NDF - Alte materiale consumabile"
   },
   {
     "cod": "272210TUB0157",
@@ -2391,16 +2265,16 @@
     "stoc": "273.88",
     "costUnitar": "1.2",
     "valoare": "328.66",
-    "categorie": ""
+    "categorie": "3028-01 - MAT.MAA.NDF - Alte materiale consumabile"
   },
   {
     "cod": "295625OBI0010",
     "descriere": "APARAT CU ULTRASUNETE CONTRA ANIMALELOR PERICULOASE",
     "um": "BUC",
-    "stoc": "38",
-    "costUnitar": "76.0639",
-    "valoare": "2890.43",
-    "categorie": ""
+    "stoc": "37",
+    "costUnitar": "76.0641",
+    "valoare": "2814.37",
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "332063CNT0060",
@@ -2409,34 +2283,34 @@
     "stoc": "1",
     "costUnitar": "69.1",
     "valoare": "69.1",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "193031OBI0007",
     "descriere": "BOCANCI CU BOMBEU DE SIGURANTA",
     "um": "PER",
-    "stoc": "13",
-    "costUnitar": "286.6723",
-    "valoare": "3726.74",
-    "categorie": ""
+    "stoc": "11",
+    "costUnitar": "286.6727",
+    "valoare": "3153.4",
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "182442OBI0004",
     "descriere": "CACIULA CU APARATORI LATERALE",
     "um": "BUC",
-    "stoc": "49",
-    "costUnitar": "80.5665",
-    "valoare": "3947.76",
-    "categorie": ""
+    "stoc": "48",
+    "costUnitar": "80.5669",
+    "valoare": "3867.21",
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "182442CAP0005",
     "descriere": "CAPISON",
     "um": "BUC",
-    "stoc": "28",
+    "stoc": "26",
     "costUnitar": "36",
-    "valoare": "1008",
-    "categorie": ""
+    "valoare": "936",
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "287525CNS0003",
@@ -2445,7 +2319,7 @@
     "stoc": "1",
     "costUnitar": "75.04",
     "valoare": "75.04",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "175211OBI0051",
@@ -2454,7 +2328,7 @@
     "stoc": "1",
     "costUnitar": "392.35",
     "valoare": "392.35",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "252425PSI0031",
@@ -2463,25 +2337,25 @@
     "stoc": "6",
     "costUnitar": "2245.43",
     "valoare": "13472.58",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "252425OBI0002",
     "descriere": "CASCA DE PROTECTIE CU ANTIFOANE EXTERNE",
     "um": "BUC",
-    "stoc": "15",
+    "stoc": "12",
     "costUnitar": "137.22",
-    "valoare": "2058.3",
-    "categorie": ""
+    "valoare": "1646.64",
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "252425PSI0001",
     "descriere": "CASCA PROTECTIE",
     "um": "BUC",
-    "stoc": "51",
-    "costUnitar": "110.6137",
-    "valoare": "5641.3",
-    "categorie": ""
+    "stoc": "49",
+    "costUnitar": "110.7418",
+    "valoare": "5426.35",
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "181010CNS0024",
@@ -2490,7 +2364,7 @@
     "stoc": "1",
     "costUnitar": "647.49",
     "valoare": "647.49",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "343030OBI0007",
@@ -2499,142 +2373,16 @@
     "stoc": "1",
     "costUnitar": "56.6",
     "valoare": "56.6",
-    "categorie": ""
-  },
-  {
-    "cod": "286230CSC0020",
-    "descriere": "CHEI FIXA SOC 50",
-    "um": "BUC",
-    "stoc": "6",
-    "costUnitar": "74.8",
-    "valoare": "448.8",
-    "categorie": ""
-  },
-  {
-    "cod": "286230CSC0023",
-    "descriere": "CHEI FIXE SOC 36",
-    "um": "BUC",
-    "stoc": "12",
-    "costUnitar": "39",
-    "valoare": "468",
-    "categorie": ""
-  },
-  {
-    "cod": "286230CSC0024",
-    "descriere": "CHEI FIXE SOC 41",
-    "um": "BUC",
-    "stoc": "12",
-    "costUnitar": "51.6",
-    "valoare": "619.2",
-    "categorie": ""
-  },
-  {
-    "cod": "286230OBI0717",
-    "descriere": "CHEI REGLABILE PENTRU TEVI  1 1/2\"",
-    "um": "BUC",
-    "stoc": "5",
-    "costUnitar": "30",
-    "valoare": "150",
-    "categorie": ""
-  },
-  {
-    "cod": "286230OBI0716",
-    "descriere": "CHEI REGLABILE PENTRU TEVI 2\"",
-    "um": "BUC",
-    "stoc": "5",
-    "costUnitar": "45",
-    "valoare": "225",
-    "categorie": ""
-  },
-  {
-    "cod": "286230CFC0125",
-    "descriere": "CHEIE FIXA DUBLA 36X41",
-    "um": "BUC",
-    "stoc": "12",
-    "costUnitar": "48.6",
-    "valoare": "583.2",
-    "categorie": ""
-  },
-  {
-    "cod": "286230CIN0015",
-    "descriere": "CHEIE INELARA COTITA 36X41",
-    "um": "BUC",
-    "stoc": "10",
-    "costUnitar": "46.1",
-    "valoare": "461",
-    "categorie": ""
-  },
-  {
-    "cod": "286230CIN0016",
-    "descriere": "CHEIE INELARA SOC 30",
-    "um": "BUC",
-    "stoc": "12",
-    "costUnitar": "25.4",
-    "valoare": "304.8",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "286230CIN0017",
     "descriere": "CHEIE INELARA SOC 32",
     "um": "BUC",
-    "stoc": "12",
+    "stoc": "1",
     "costUnitar": "27.7",
-    "valoare": "332.4",
-    "categorie": ""
-  },
-  {
-    "cod": "286230CIN0018",
-    "descriere": "CHEIE INELARA SOC 36",
-    "um": "BUC",
-    "stoc": "12",
-    "costUnitar": "32.2",
-    "valoare": "386.4",
-    "categorie": ""
-  },
-  {
-    "cod": "286230CIN0019",
-    "descriere": "CHEIE INELARA SOC 41",
-    "um": "BUC",
-    "stoc": "12",
-    "costUnitar": "42",
-    "valoare": "504",
-    "categorie": ""
-  },
-  {
-    "cod": "286230CIN0020",
-    "descriere": "CHEIE INELARA SOC 46",
-    "um": "BUC",
-    "stoc": "12",
-    "costUnitar": "49.9",
-    "valoare": "598.8",
-    "categorie": ""
-  },
-  {
-    "cod": "286230CIN0021",
-    "descriere": "CHEIE INELARA SOC 50",
-    "um": "BUC",
-    "stoc": "6",
-    "costUnitar": "59",
-    "valoare": "354",
-    "categorie": ""
-  },
-  {
-    "cod": "286230CIN0024",
-    "descriere": "CHEIE INELARA SOC 65",
-    "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "102.4",
-    "valoare": "204.8",
-    "categorie": ""
-  },
-  {
-    "cod": "286230OBI1115",
-    "descriere": "CHEIE REGLABILA TEVI 1''",
-    "um": "BUC",
-    "stoc": "5",
-    "costUnitar": "25",
-    "valoare": "125",
-    "categorie": ""
+    "valoare": "27.7",
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "175211OBI0006",
@@ -2643,43 +2391,25 @@
     "stoc": "4",
     "costUnitar": "154.655",
     "valoare": "618.62",
-    "categorie": ""
-  },
-  {
-    "cod": "286230CCN0004",
-    "descriere": "CIOCAN 1KG CU COADA",
-    "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "437.7",
-    "valoare": "875.4",
-    "categorie": ""
-  },
-  {
-    "cod": "286230CCN0006",
-    "descriere": "CIOCAN 2KG CU COADA",
-    "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "613",
-    "valoare": "1226",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "177110SOS0001",
     "descriere": "CIORAPI, SOSETE",
     "um": "PER",
-    "stoc": "274",
+    "stoc": "270",
     "costUnitar": "4.3187",
-    "valoare": "1183.33",
-    "categorie": ""
+    "valoare": "1166.05",
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "193031OBI0008",
     "descriere": "CIZME DE CAUCIUC CU BOMBEU DE SIGURANTA",
     "um": "PER",
-    "stoc": "99",
+    "stoc": "98",
     "costUnitar": "75.1693",
-    "valoare": "7441.76",
-    "categorie": ""
+    "valoare": "7366.59",
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "193011CIS0032",
@@ -2688,7 +2418,7 @@
     "stoc": "1",
     "costUnitar": "232.62",
     "valoare": "232.62",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "193011CIS0031",
@@ -2697,7 +2427,7 @@
     "stoc": "1",
     "costUnitar": "157.58",
     "valoare": "157.58",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "193011OBI0004",
@@ -2706,7 +2436,7 @@
     "stoc": "1",
     "costUnitar": "20",
     "valoare": "20",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "193011CIS0057",
@@ -2715,34 +2445,7 @@
     "stoc": "7",
     "costUnitar": "14.09",
     "valoare": "98.63",
-    "categorie": ""
-  },
-  {
-    "cod": "286230OBI0983",
-    "descriere": "CLESTE INDUSTRIAL PENTRU TEVI TIP AMERICAN 2\"",
-    "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "48.63",
-    "valoare": "97.26",
-    "categorie": ""
-  },
-  {
-    "cod": "286230OBI1116",
-    "descriere": "CLESTE REGLABIL TEVI 3''",
-    "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "78",
-    "valoare": "156",
-    "categorie": ""
-  },
-  {
-    "cod": "286230OBI1117",
-    "descriere": "CLESTE REGLABIL TEVI 6''",
-    "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "276.505",
-    "valoare": "553.01",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "286230CLT0014",
@@ -2751,7 +2454,7 @@
     "stoc": "1",
     "costUnitar": "40.23",
     "valoare": "40.23",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "175211OBI0052",
@@ -2760,7 +2463,7 @@
     "stoc": "1",
     "costUnitar": "2036.8",
     "valoare": "2036.8",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "332052OBI0101",
@@ -2769,7 +2472,7 @@
     "stoc": "1",
     "costUnitar": "2328",
     "valoare": "2328",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "332052OBI0097",
@@ -2778,7 +2481,7 @@
     "stoc": "4",
     "costUnitar": "444",
     "valoare": "1776",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "332052OBI0100",
@@ -2787,7 +2490,7 @@
     "stoc": "1",
     "costUnitar": "2058",
     "valoare": "2058",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "332063OBI0001",
@@ -2796,7 +2499,7 @@
     "stoc": "3",
     "costUnitar": "65",
     "valoare": "195",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "332063CNT0054",
@@ -2805,7 +2508,7 @@
     "stoc": "1",
     "costUnitar": "1014",
     "valoare": "1014",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "252213OBI0034",
@@ -2814,16 +2517,16 @@
     "stoc": "2",
     "costUnitar": "18.46",
     "valoare": "36.92",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "182112SLO0020",
     "descriere": "COSTUM SALOPETA --- <OB_INVENT     303.1>",
     "um": "BUC",
-    "stoc": "20",
-    "costUnitar": "396.2225",
-    "valoare": "7924.45",
-    "categorie": ""
+    "stoc": "16",
+    "costUnitar": "397.1075",
+    "valoare": "6353.72",
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "181010COT0001",
@@ -2832,7 +2535,25 @@
     "stoc": "2",
     "costUnitar": "13.385",
     "valoare": "26.77",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
+  },
+  {
+    "cod": "268111OBI0003",
+    "descriere": "DISC DIAMANTAT TAIERE BETON PROFESIONAL FI 125 X 2 MM",
+    "um": "BUC",
+    "stoc": "5",
+    "costUnitar": "58.11",
+    "valoare": "290.55",
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
+  },
+  {
+    "cod": "268111OBI0004",
+    "descriere": "DISC DIAMANTAT TAIERE BETON PROFESIONAL FI 230 X 2 MM",
+    "um": "BUC",
+    "stoc": "5",
+    "costUnitar": "92.442",
+    "valoare": "462.21",
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "252213COS0008",
@@ -2841,7 +2562,7 @@
     "stoc": "2",
     "costUnitar": "103.72",
     "valoare": "207.44",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "175211FCS0003",
@@ -2850,7 +2571,7 @@
     "stoc": "1",
     "costUnitar": "245.49",
     "valoare": "245.49",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "175211FAN0001",
@@ -2859,7 +2580,7 @@
     "stoc": "1",
     "costUnitar": "768.62",
     "valoare": "768.62",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "251330FUO0001",
@@ -2868,7 +2589,7 @@
     "stoc": "20",
     "costUnitar": "4.8405",
     "valoare": "96.81",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "181010GEN0003",
@@ -2877,7 +2598,7 @@
     "stoc": "2",
     "costUnitar": "8.9",
     "valoare": "17.8",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "182431OBI0002",
@@ -2886,16 +2607,16 @@
     "stoc": "2",
     "costUnitar": "23.47",
     "valoare": "46.94",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "182432HEX0001",
     "descriere": "HAINA EX",
     "um": "BUC",
-    "stoc": "53",
-    "costUnitar": "682.7347",
-    "valoare": "36184.94",
-    "categorie": ""
+    "stoc": "52",
+    "costUnitar": "682.7348",
+    "valoare": "35502.21",
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "181010JAM0003",
@@ -2904,16 +2625,16 @@
     "stoc": "1",
     "costUnitar": "12.01",
     "valoare": "12.01",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "182322LCI0003",
     "descriere": "LENJERIE DE CORP(CHILOT,MAIEU,INDISPENSABIL,CAMASA DE CORP) --- <OB_INVENT     303.1>",
     "um": "SET",
-    "stoc": "272",
+    "stoc": "268",
     "costUnitar": "50.17",
-    "valoare": "13646.24",
-    "categorie": ""
+    "valoare": "13445.56",
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "332052MNM0243",
@@ -2922,25 +2643,25 @@
     "stoc": "2",
     "costUnitar": "45.49",
     "valoare": "90.98",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "182432MAN0018",
     "descriere": "MANUSI DE PROTECTIE CU 5 DEGETE DIN PIELE --- <OB_INVENT     303.1>",
     "um": "PER",
-    "stoc": "490",
+    "stoc": "487",
     "costUnitar": "12.9593",
-    "valoare": "6350.06",
-    "categorie": ""
+    "valoare": "6311.18",
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "182432MAN0017",
     "descriere": "MANUSI DE PROTECTIE IMPOTRIVA FRIGULUI SI A UMEZELII --- <OB_INVENT     303.1>",
     "um": "PER",
-    "stoc": "38",
-    "costUnitar": "10.8439",
-    "valoare": "412.07",
-    "categorie": ""
+    "stoc": "35",
+    "costUnitar": "10.846",
+    "valoare": "379.61",
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "251360PMP0013",
@@ -2949,7 +2670,7 @@
     "stoc": "2",
     "costUnitar": "89.4634",
     "valoare": "178.93",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "251360PMP0014",
@@ -2958,7 +2679,7 @@
     "stoc": "1",
     "costUnitar": "275.29",
     "valoare": "275.29",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "182413MAN0004",
@@ -2967,7 +2688,7 @@
     "stoc": "4",
     "costUnitar": "27.43",
     "valoare": "109.72",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "334012OCH0004",
@@ -2976,7 +2697,7 @@
     "stoc": "1",
     "costUnitar": "45.83",
     "valoare": "45.83",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "334012OCH0001",
@@ -2985,52 +2706,34 @@
     "stoc": "1",
     "costUnitar": "191.27",
     "valoare": "191.27",
-    "categorie": ""
-  },
-  {
-    "cod": "334012OBI0001",
-    "descriere": "OCHELARI DE PROTECTIE CU BRATE",
-    "um": "BUC",
-    "stoc": "3",
-    "costUnitar": "6.9067",
-    "valoare": "20.72",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "334012OCH0003",
     "descriere": "OCHELARI DE SUDURA",
     "um": "BUC",
-    "stoc": "7",
-    "costUnitar": "17.1071",
-    "valoare": "119.75",
-    "categorie": ""
-  },
-  {
-    "cod": "175211COR0008",
-    "descriere": "OPRITOR DE CADERE",
-    "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "1165.13",
-    "valoare": "2330.26",
-    "categorie": ""
+    "stoc": "8",
+    "costUnitar": "17.1775",
+    "valoare": "137.42",
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "193031OBI0009",
     "descriere": "PANTOFI CU BOMBEU DE SIGURANTA",
     "um": "PER",
-    "stoc": "21",
-    "costUnitar": "235.7681",
-    "valoare": "4951.13",
-    "categorie": ""
+    "stoc": "16",
+    "costUnitar": "235.8131",
+    "valoare": "3773.01",
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "182432PEL0012",
     "descriere": "PELERINA IMPERMEABILA --- <OB_INVENT     303.1>",
     "um": "BUC",
-    "stoc": "33",
+    "stoc": "32",
     "costUnitar": "183.7103",
-    "valoare": "6062.44",
-    "categorie": ""
+    "valoare": "5878.73",
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "366213PEN0132",
@@ -3039,7 +2742,7 @@
     "stoc": "5",
     "costUnitar": "3",
     "valoare": "15",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "366213OBI0028",
@@ -3048,7 +2751,7 @@
     "stoc": "7",
     "costUnitar": "5.5",
     "valoare": "38.5",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "291221OBI0071",
@@ -3057,7 +2760,7 @@
     "stoc": "1",
     "costUnitar": "228",
     "valoare": "228",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "291224OBI0061",
@@ -3066,106 +2769,16 @@
     "stoc": "2",
     "costUnitar": "1555",
     "valoare": "3110",
-    "categorie": ""
-  },
-  {
-    "cod": "292217PRE0001",
-    "descriere": "PRESA HIDRAULICA",
-    "um": "BUC",
-    "stoc": "1",
-    "costUnitar": "552.5",
-    "valoare": "552.5",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "182442OBI0003",
     "descriere": "SAPCA DOC TIP BASEBALL",
     "um": "BUC",
-    "stoc": "100",
+    "stoc": "99",
     "costUnitar": "50.65",
-    "valoare": "5065",
-    "categorie": ""
-  },
-  {
-    "cod": "251360OBI0012",
-    "descriere": "SEMIMASCA GAZE(VOPSITORI)",
-    "um": "BUC",
-    "stoc": "35",
-    "costUnitar": "64",
-    "valoare": "2240",
-    "categorie": ""
-  },
-  {
-    "cod": "291236OBI0008",
-    "descriere": "SET ACCESORII AER COMPRIMAT (3 ACCESORII)",
-    "um": "BUC",
-    "stoc": "6",
-    "costUnitar": "95",
-    "valoare": "570",
-    "categorie": ""
-  },
-  {
-    "cod": "294074BUR0254",
-    "descriere": "SET BURGHIE METAL",
-    "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "65",
-    "valoare": "130",
-    "categorie": ""
-  },
-  {
-    "cod": "286230OBI1074",
-    "descriere": "SET CLESTE SIGURANTE 180 MM",
-    "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "120.7",
-    "valoare": "241.4",
-    "categorie": ""
-  },
-  {
-    "cod": "286230OBI1085",
-    "descriere": "SET DE LEVIERE MECANICE- 4 PIESE",
-    "um": "BUC",
-    "stoc": "1",
-    "costUnitar": "442",
-    "valoare": "442",
-    "categorie": ""
-  },
-  {
-    "cod": "286230DOR0012",
-    "descriere": "SET DORNURI 3-10MM --- <OB_INVENT     303.1>",
-    "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "80.1",
-    "valoare": "160.2",
-    "categorie": ""
-  },
-  {
-    "cod": "286230OBI0979",
-    "descriere": "SET EXTRACTOR RULMENTI YATO TIP:YT-25105",
-    "um": "BUC",
-    "stoc": "1",
-    "costUnitar": "198.9",
-    "valoare": "198.9",
-    "categorie": ""
-  },
-  {
-    "cod": "286230OBI0551",
-    "descriere": "SET EXTRACTOR SURUBURI RUPTE 3-24MM",
-    "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "370.9",
-    "valoare": "741.8",
-    "categorie": ""
-  },
-  {
-    "cod": "294240OBI0735",
-    "descriere": "SET TAROZI SI FILIERE M2-M18",
-    "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "481",
-    "valoare": "962",
-    "categorie": ""
+    "valoare": "5014.35",
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "181010SRP0004",
@@ -3174,7 +2787,7 @@
     "stoc": "4",
     "costUnitar": "24.6925",
     "valoare": "98.77",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "366377OBI0014",
@@ -3183,16 +2796,7 @@
     "stoc": "1",
     "costUnitar": "68",
     "valoare": "68",
-    "categorie": ""
-  },
-  {
-    "cod": "286210UAG0076",
-    "descriere": "TIRNACOP 2 KG FORJAT",
-    "um": "BUC",
-    "stoc": "4",
-    "costUnitar": "19.0016",
-    "valoare": "76.01",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "366213PEN0087",
@@ -3201,43 +2805,16 @@
     "stoc": "2",
     "costUnitar": "17.285",
     "valoare": "34.57",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "182130OBI0016",
     "descriere": "TRICOU",
     "um": "BUC",
-    "stoc": "270",
+    "stoc": "266",
     "costUnitar": "88.9848",
-    "valoare": "24025.9",
-    "categorie": ""
-  },
-  {
-    "cod": "286230TSC0002",
-    "descriere": "TRUSA ELECTRONIST",
-    "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "1661.4",
-    "valoare": "3322.8",
-    "categorie": ""
-  },
-  {
-    "cod": "286230OBI1080",
-    "descriere": "TRUSA IMBUS HEXAGONAL IN MM SI INCH",
-    "um": "BUC",
-    "stoc": "1",
-    "costUnitar": "134.6",
-    "valoare": "134.6",
-    "categorie": ""
-  },
-  {
-    "cod": "286230OBI1083",
-    "descriere": "TRUSA PREDUCELE",
-    "um": "BUC",
-    "stoc": "2",
-    "costUnitar": "260.8",
-    "valoare": "521.6",
-    "categorie": ""
+    "valoare": "23669.96",
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "286230TSC0006",
@@ -3246,25 +2823,7 @@
     "stoc": "1",
     "costUnitar": "815.76",
     "valoare": "815.76",
-    "categorie": ""
-  },
-  {
-    "cod": "286230TSC0007",
-    "descriere": "TRUSA SCULE LACATUS TSL",
-    "um": "BUC",
-    "stoc": "10",
-    "costUnitar": "1134.9",
-    "valoare": "11349",
-    "categorie": ""
-  },
-  {
-    "cod": "182432VES0015",
-    "descriere": "VESTA REFLECTORIZANTA",
-    "um": "BUC",
-    "stoc": "7",
-    "costUnitar": "16.08",
-    "valoare": "112.56",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "334012PSI0001",
@@ -3273,7 +2832,7 @@
     "stoc": "7",
     "costUnitar": "31.11",
     "valoare": "217.77",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "182442OBI0005",
@@ -3282,15 +2841,15 @@
     "stoc": "2",
     "costUnitar": "80.605",
     "valoare": "161.21",
-    "categorie": ""
+    "categorie": "303-01 - MAT.OBI.NDF - Obiecte de inventar"
   },
   {
     "cod": "271092DFE0007",
     "descriere": "DESEU FIER",
     "um": "KGR",
-    "stoc": "975",
+    "stoc": "115",
     "costUnitar": "0.85",
-    "valoare": "828.75",
-    "categorie": ""
+    "valoare": "97.75",
+    "categorie": "346-01 - MAT.DES.NDF - Produse reziduale diverse"
   }
 ]
